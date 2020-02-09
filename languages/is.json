@@ -105,8 +105,8 @@
       "showAllAddressesButton": "Sýna öll reikningsnúmer",
       "modalMultipleShieldErrMsg": "Vinsamlegast veldu einkareikningsnúmer í Stillingum áður en þú notar þennan möguleika",
       "modalMultipleShieldConfirmMsg" : "Viltu verja alla myndaða mynt til",
-      "exportMessage" : "All privakeys have been exported to: ",
-      "exportToFile" : "Export All Privatekeys",
+      "exportMessage" : "Allir Einkalyklar hafa verið útfluttir til: ",
+      "exportToFile" : "Flytja út alla Einkalykla",
       "placeholder": {
         "main": "Leita: Reikningsnúmer / Nafn",
         "createAddress": "Nafn reikningsnúmers",
