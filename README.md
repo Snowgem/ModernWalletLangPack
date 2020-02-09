@@ -14,7 +14,7 @@ We are currently offering a bounty for new translations of **400 XSG** for new t
 
 Also offering a bounty of **50 XSG** to complete following translations:
 
-_The incomplete language files have the incomplete lines in *english* at the moment_
+_The incomplete language files have the incomplete lines in *english* at the moment._
 
 | Language | ISO 3166-1 alpha-2 |
 | --- | --- |
@@ -26,4 +26,4 @@ _The incomplete language files have the incomplete lines in *english* at the mom
 | Korean | [KR] |
 | Spanish | [ES] |
 
-_If you want to join our Translation team please join our Discord (https://discord.gg/zumGnbg) and contact team member **Amitabha**_
+_If you want to join our Translation team please join our Discord (https://discord.gg/zumGnbg) and contact team member **Amitabha**._
