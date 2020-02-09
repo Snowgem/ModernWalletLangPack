@@ -24,4 +24,4 @@ Also offering a bounty to complete following translations:
 | Korean | [KR] |
 | Spanish | [ES] |
 
-_If you want to join our Translation team please join our Discord (https://discord.gg/zumGnbg) and contact team member Amitabha_
+_If you want to join our Translation team please join our Discord (https://discord.gg/zumGnbg) and contact team member **Amitabha**_
