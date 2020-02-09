@@ -10,7 +10,7 @@ _We need your help. If you do want to contribute with a translation for ModernWa
 
 _Thank you very much!_
 
-We are currently offering a bounty for new translations of **400 XSG** for new translations.
+We are currently offering a bounty of **400 XSG** for each new translation.
 
 Also offering a bounty of **50 XSG** to complete following translations:
 
