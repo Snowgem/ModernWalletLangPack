@@ -2,17 +2,18 @@
 Translations for ModernWallet (SnowGem)
 
 _We need your help. If you do want to contribute with a translation for ModernWallet please do the following:_
-* _Clone this repository._
-* _Copy the file **english.json**._
-* _Rename the file **[your language].json** (example **brasilian.json**)._
-* _Translate the content._
-* _Add a pull request to this repository._
+* _Clone this repository_
+* _Copy the file **english.json**_
+* _Rename the file **[your language].json** (example **brasilian.json**)_
+* _Translate the content_
+* _Add a pull request to this repository_
 
-_Thank you very much._
+_Thank you very much!_
 
 We are currently offering a bounty for new translations of **400 XSG** for new translations.
 
 Also offering a bounty of **50 XSG** to complete following translations:
+
 _The incomplete language files have the incomplete lines in *english* at the moment_
 
 | Language | ISO 3166-1 alpha-2 |
