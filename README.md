@@ -16,7 +16,7 @@ We are currently offering a bounty for new translations of **400 XSG** for new t
 Also offering a bounty to complete following translations:
 Language | ISO 3166-1 alpha-2
 -------- | ------------------
-Arabic | [AE]
+Arabic | arabic
 Dutch | [NL]
 German | [DE]
 Hungarian | [HU]
