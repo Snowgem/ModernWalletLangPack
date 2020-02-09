@@ -12,7 +12,8 @@ _Thank you very much._
 
 We are currently offering a bounty for new translations of **400 XSG** for new translations.
 
-Also offering a bounty to complete following translations:
+Also offering a bounty of **50 XSG** to complete following translations:
+_The incomplete language files have the incomplete lines in *english* at the moment_
 
 | Language | ISO 3166-1 alpha-2 |
 | --- | --- |
