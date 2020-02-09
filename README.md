@@ -1,12 +1,27 @@
 ## SnowgemModernWallet
 Translations for ModernWallet (SnowGem)
 
-##### We need your help.
-##### If you do want to contribute with a translation for ModernWallet please do the following.
-##### Clone this repo.
-##### Copy the file english.xml.
-##### Rename the file [your language].xml (example brasilian.xml).
-##### Translate the content.
-##### Add a pull request to this repo.
+_We need your help.  
+If you do want to contribute with a translation for ModernWallet please do the following.
+Clone this repository.
+Copy the file english.json.
+Rename the file [your language].json (example brasilian.json).
+Translate the content.
+Add a pull request to this repository.
 
-#### Thank you very much.
+Thank you very much._
+
+We are currently offering a bounty for new translations of **400 XSG** for new translations.
+
+Also offering a bounty to complete following translations:
+Language | ISO 3166-1 alpha-2
+-------- | ------------------
+Arabic | [AE]
+Dutch | [NL]
+German | [DE]
+Hungarian | [HU]
+Italian | [IT]
+Korean | [KR]
+Spanish | [ES]
+
+_If you want to join our Tranlation team please join our Discord (https://discord.gg/zumGnbg) and contact team member Amitabha_
