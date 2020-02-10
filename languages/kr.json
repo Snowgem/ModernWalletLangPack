@@ -105,8 +105,8 @@
       "showAllAddressesButton": "모든 주소 보이기",
       "modalMultipleShieldErrMsg": "개인(private)주소 설정을 다시 확인해주세요",
       "modalMultipleShieldConfirmMsg" : "다음 주소에 생성된 모든 코인을 쉴드하는게 맞습니까? :",
-      "exportMessage" : "All privakeys have been exported to: ",
-      "exportToFile" : "Export All Privatekeys",
+      "exportMessage" : "개인키 모두 추출되었습니다: ",
+      "exportToFile" : "모든 개인키 추출하기",
       "placeholder": {
         "main": "찾기: 주소 또는 이름",
         "createAddress": "주소 이름",

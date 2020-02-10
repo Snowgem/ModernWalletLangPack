@@ -105,8 +105,8 @@
       "showAllAddressesButton": "显示所有地址",
       "modalMultipleShieldErrMsg": "请在使用此功能前在“设置”中选择私人地址",
       "modalMultipleShieldConfirmMsg" : "您是否想要屏蔽所有已生成的钱币",
-      "exportMessage" : "All privakeys have been exported to: ",
-      "exportToFile" : "Export All Privatekeys",
+      "exportMessage" : "所有私钥已导出到：",
+      "exportToFile" : "导出所有私钥",
       "placeholder": {
         "main": "搜索：地址/名称",
         "createAddress": "地址名称",

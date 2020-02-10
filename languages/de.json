@@ -105,8 +105,8 @@
       "showAllAddressesButton": "Alle Adressen anzeigen",
       "modalMultipleShieldErrMsg": "Bitte wählen Sie Ihre private Adresse in den Einstellungen aus, bevor sie diese Funktion benutzen",
       "modalMultipleShieldConfirmMsg" : "Wollen Sie alle generierten Coins abschirmen zu folgende(n) Adresse(n)?",
-      "exportMessage" : "All privakeys have been exported to: ",
-      "exportToFile" : "Export All Privatekeys",
+      "exportMessage" : "Alle privaten Schlüssel wurden exportiert nach : ",
+      "exportToFile" : "Alle privaten Schlüssel exportieren",
       "placeholder": {
         "main": "Suche: Adresse / Name",
         "createAddress": "Name der Adresse",
