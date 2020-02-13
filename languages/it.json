@@ -105,8 +105,8 @@
       "showAllAddressesButton": "Mostra tutti gli indirizzi",
       "modalMultipleShieldErrMsg": "Si Prega di selezionare un indirizzo privato nelle Impostazioni prima di utilizzare questa funzione",
       "modalMultipleShieldConfirmMsg" : "Vuoi proteggere tutte le monete generate",
-      "exportMessage" : "All privakeys have been exported to: ",
-      "exportToFile" : "Export All Privatekeys",
+      "exportMessage" : "Tutte le chiavi private sono state esportate: ",
+      "exportToFile" : "Esporta tutte le chiavi private",
       "placeholder": {
         "main": "Cerca: Indirizzo / Nome",
         "createAddress": "Nome Indirizzo",
@@ -267,7 +267,7 @@
       }
     },
     "loadingView": {
-      "downloadLanguage": "Downloading language pack",
+      "downloadLanguage": "Scarico il pacchetto lingua",
       "loadingWallet": "Si prega di attendere , caricamento portaglio",
       "selectLinuxVer": "Seleziona Versione Linux",
       "selectOneVer": "Seleziona una versione",

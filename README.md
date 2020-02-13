@@ -20,8 +20,6 @@ _The incomplete language files have the incomplete lines in *english* at the mom
 | --- | --- |
 | Arabic | [AE] |
 | Dutch | [NL] |
-| Hungarian | [HU] |
-| Italian | [IT] |
 | Spanish | [ES] |
 
 _If you want to join our Translation team please join our Discord (https://discord.gg/zumGnbg) and contact team member **Amitabha**._

@@ -105,8 +105,8 @@
       "showAllAddressesButton": "Minden cím mutatása",
       "modalMultipleShieldErrMsg": "Mielőtt ezt a funkciót használná, válassza a privát címet a Beálltások menüben",
       "modalMultipleShieldConfirmMsg" : "Szeretné bebiztosítani az összes generált digitális pénzt",
-      "exportMessage" : "All privakeys have been exported to: ",
-      "exportToFile" : "Export All Privatekeys",
+      "exportMessage" : "Az összes privát kulcs exportálva: ",
+      "exportToFile" : "Az összes privát kulcs exportálása",
       "placeholder": {
         "main": "Keresés: Cím / Név",
         "createAddress": "Cím név",
@@ -201,9 +201,9 @@
       "blockStart": "Block Indítás",
       "blockEnd": "Block Befejezés",
       "vote": "Szavazat",
-      "successVoted": "Succesfully voted for proposal",
-      "results": "Results",
-      "thankYou": "Thank you!",
+      "successVoted": "Sikeresen szavaztál az indítványra",
+      "results": "Eredmények",
+      "thankYou": "Köszönöm!",
       "placeholder": "Keresés: Javaslat megnevezése"
     },
     "sendView": {
