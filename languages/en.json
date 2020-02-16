@@ -105,7 +105,7 @@
       "showAllAddressesButton": "Show All Addresses",
       "modalMultipleShieldErrMsg": "Please select private address in Settings before using this feature",
       "modalMultipleShieldConfirmMsg" : "Do you want to shield all generated coins to",
-      "exportMessage" : "All privakeys have been exported to: ",
+      "exportMessage" : "All privatekeys have been exported to: ",
       "exportToFile" : "Export All Privatekeys",
       "placeholder": {
         "main": "Search: Address / Name",
