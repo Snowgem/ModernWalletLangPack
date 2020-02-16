@@ -105,8 +105,8 @@
       "showAllAddressesButton": "Mostrar todas las Direcciones",
       "modalMultipleShieldErrMsg": "Por Favor de seleccionar una dirección privada en Ajustes antes de utilizar esta función",
       "modalMultipleShieldConfirmMsg" : "Deseas blindar todas las monedas generadas a",
-      "exportMessage" : "All privakeys have been exported to: ",
-      "exportToFile" : "Export All Privatekeys",
+      "exportMessage" : "Todas las claves privadas se han exportado a: ",
+      "exportToFile" : "Exportar todas las claves privadas",
       "placeholder": {
         "main": "Busqueda: Dirección / Nombre",
         "createAddress": "Nombre de la Dirección",
