@@ -18,7 +18,6 @@ _The incomplete language files have the incomplete lines in *english* at the mom
 
 | Language | ISO 3166-1 alpha-2 |
 | --- | --- |
-| Arabic | [AE] |
 | Dutch | [NL] |
 
 _If you want to join our Translation team please join our Discord (https://discord.gg/zumGnbg) and contact team member **Amitabha**._

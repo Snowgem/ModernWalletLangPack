@@ -105,8 +105,8 @@
       "showAllAddressesButton": "عرض جميع العناوين",
       "modalMultipleShieldErrMsg": "المرجو اختيار عناوين خاصة في الاعدادات قبل استعمال هاته الميزات",
       "modalMultipleShieldConfirmMsg" : "هل تريد حماية العملات المولدة ل",
-      "exportMessage" : "All privakeys have been exported to: ",
-      "exportToFile" : "Export All Privatekeys",
+      "exportMessage" : "تم تصدير كامل المفاتيح الخاصة إلى: ",
+      "exportToFile" : "تصدير كامل المفاتيح الخاصة",
       "placeholder": {
         "main": "بحث: عنوان / إسم",
         "createAddress": "عنوان إسم",
