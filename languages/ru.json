@@ -416,6 +416,16 @@
     "download": "Скачать",
     "version": "Версия",
     "confirmationTitle": "Вы уверены?",
-    "helpButton": "Помощь"
+    "helpButton": "Помощь",
+    "errors": {
+      "InsufficientShieldedFunds1": "Недостаточно защищённых средств, есть ",
+      "InsufficientShieldedFunds2": ", необходимо ",
+      "InsufficientTransparentFunds1": "Недостаточно свободных средств, есть ",
+      "InsufficientTransparentFunds2": " больше, чтобы не допустить появление неправильного вывода сдачи ",
+      "InsufficientTransparentFunds3": " (порог пыли это ",
+      "BadTxnsOversize": "Внимание: ошибка 'bad-txns-oversize'. Пожалуйста, пошлите меньшую сумму для начала. Подробнее об ошибке читайте в FAQ: https://snowgem.org/technology/modern-wallet",
+      "BadTxnsJoinsplitRequirementsNotMet": "Внимание: ошибка 'bad-txns-joinsplit-requirements-not-met'. Пожалуйста, пересканируйте кошелек!",
+      "NonCoinbaseUTXOsToSpend": "Вы должны защитить монеты, прежде чем вы сможете переслать их на другой адрес. Перейдите в раздел Защитить монеты, выберите ваш защищённый приватный адрес и нажмите Защитить или Защитить все (для нескольких МН)"
+    }
   }
 }

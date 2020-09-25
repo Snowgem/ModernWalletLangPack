@@ -12,11 +12,25 @@ _Thank you very much!_
 
 We are currently offering a bounty of **400 XSG** for each new translation.
 
-Also offering a bounty of **0 XSG** to complete following translations:
+Also offering a bounty of **10 XSG** to complete following translations:
 
 _The incomplete language files have the incomplete lines in *english* at the moment._
 
 | Language | ISO 3166-1 alpha-2 |
 | --- | --- |
+| Arabic | [AE] |
+| Chinese | [CN] |
+| Czech | [CZ] |
+| Dutch | [NL] |
+| French | [FR] |
+| German | [DE] |
+| Hungarian | [HU] |
+| Icelandic | [IS] |
+| Italian | [IT] |
+| Korean | [KR] |
+| Polish | [PL] |
+| Spanish | [ES] |
+| Turkish | [TR] |
 
-_If you want to join our Translation team please join our Discord (https://discord.gg/zumGnbg) and contact team member **Amitabha**._
+
+_If you want to join our Translation team please join our Discord (https://discord.gg/78rVJcH) and contact team member **Amitabha**._
