@@ -416,6 +416,16 @@
     "download": "Télécharger",
     "version": "Version",
     "confirmationTitle": "Êtes vous sûr?",
-    "helpButton": "Aide"
+    "helpButton": "Aide",
+    "errors": {
+      "InsufficientShieldedFunds1": "fonds insuffisant à privatiser, a",
+      "InsufficientShieldedFunds2": ", doit ",
+      "InsufficientTransparentFunds1": "fond transparent Insufficient, a ",
+      "InsufficientTransparentFunds2": " plus pour éviter de créer une sortie de modification invalide ",
+      "InsufficientTransparentFunds3": " (le seuil est de ",
+      "BadTxnsOversize": "Vous avez eu un erreur de 'bad-txns-oversize'. S'il vous plait, envoyez un plus petit montant en premier. Regardez la section FAQ au https://snowgem.org/technology/modern-wallet",
+      "BadTxnsJoinsplitRequirementsNotMet": "vous avez un erreur 'bad-txns-joinsplit-requirements-not-met'. S'il vous plait rescannez le porte-monnaie.",
+      "NonCoinbaseUTXOsToSpend": "vous devez privatiser la monnaie avant de l'envoyer à un autre adresse. Allez à privatiser la monnaie, choisissez votre adresse privée et cliquez sur Privatisez ou Privatisez tous les monnaies (en cas de plusieurs MN´s)"
+    }
   }
 }

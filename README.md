@@ -22,7 +22,6 @@ _The incomplete language files have the incomplete lines in *english* at the mom
 | Chinese | [CN] |
 | Czech | [CZ] |
 | Dutch | [NL] |
-| French | [FR] |
 | German | [DE] |
 | Hungarian | [HU] |
 | Icelandic | [IS] |
