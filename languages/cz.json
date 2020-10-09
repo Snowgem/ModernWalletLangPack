@@ -418,14 +418,14 @@
     "confirmationTitle": "Jste si jistý?",
     "helpButton": "Pomoc",
     "errors": {
-      "InsufficientShieldedFunds1": "Insufficient shielded funds, have ",
-      "InsufficientShieldedFunds2": ", need ",
-      "InsufficientTransparentFunds1": "Insufficient transparent funds, have ",
-      "InsufficientTransparentFunds2": " more to avoid creating invalid change output ",
-      "InsufficientTransparentFunds3": " (dust threshold is ",
-      "BadTxnsOversize": "You got a 'bad-txns-oversize' error. Please send the smaller amount first. Check FAQ section of https://snowgem.org/technology/modern-wallet",
-      "BadTxnsJoinsplitRequirementsNotMet": "You got a 'bad-txns-joinsplit-requirements-not-met' error. Please rescan the wallet.",
-      "NonCoinbaseUTXOsToSpend": "You need to shield coins first before sending to another address. Go to Shield Coins, choose your shielding private address and click on Shield or Shield All (in case of multiple MN´s)"
+      "InsufficientShieldedFunds1": "Nedostatek skrytých prostředků, mít ",
+      "InsufficientShieldedFunds2": ", nutné ",
+      "InsufficientTransparentFunds1": "Nedostatek transparentních prostředků, mít ",
+      "InsufficientTransparentFunds2": " více, aby se zabránilo neplatné změně výstupu ",
+      "InsufficientTransparentFunds3": " (mezní hodnota prachu je ",
+      "BadTxnsOversize": "Pozor chyba: 'bad-txns-oversize'. Prosím odešlete nejprve menší částku. Více se dočtete v sekci FAQ: https://snowgem.org/technology/modern-wallet",
+      "BadTxnsJoinsplitRequirementsNotMet": "Pozor chyba: 'bad-txns-joinsplit-requirements-not-met'. Prosím prohledejte znovu svoji peněženku.",
+      "NonCoinbaseUTXOsToSpend": "Před odesláním na jinou adresu musíte mince nejprve skrýt. Běžte na Skrýt Mince, vyberte svoji privátní krycí adresu a klikněte na Skrýt nebo Skrýt Vše (v případě několika MN)"
     }
   }
 }
