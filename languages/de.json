@@ -421,8 +421,8 @@
       "InsufficientShieldedFunds1": "Ungenügend abgeschirmtes Guthaben, du hast ",
       "InsufficientShieldedFunds2": ", du brauchst ",
       "InsufficientTransparentFunds1": "Ungenügend transparentes Guthaben, du hast ",
-      "InsufficientTransparentFunds2": " mehr, um ungültige Änderungsausgaben zu vermeiden ",
-      "InsufficientTransparentFunds3": " (Der Grenzwert ist ",
+      "InsufficientTransparentFunds2": " zusätzlich, um ungültiges Wechselgeld zu vermeiden ",
+      "InsufficientTransparentFunds3": " (Der Mindestwert beträgt ",
       "BadTxnsOversize": "Du hast einen 'bad-txns-oversize' Fehler. Bitte sende zuerst den kleineren Betrag. Mehr dazu in den FAQ https://snowgem.org/technology/modern-wallet",
       "BadTxnsJoinsplitRequirementsNotMet": "Du hast einen 'bad-txns-joinsplit-requirements-not-met' Fehler. Bitte führe einen Rescan des Wallets durch.",
       "NonCoinbaseUTXOsToSpend": "Du musst die Coins erst abschirmen bevor du sie an eine andere Adresse schicken kannst. Gehe zu Coins abschirmen, wähle deine private Adresse und klicke Abschirmen bzw. Alle Coins abschirmen (im Falle von mehreren MN´s)"
