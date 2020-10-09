@@ -418,14 +418,14 @@
     "confirmationTitle": "Sind Sie sich sicher?",
     "helpButton": "Hilfe",
     "errors": {
-      "InsufficientShieldedFunds1": "Insufficient shielded funds, have ",
-      "InsufficientShieldedFunds2": ", need ",
-      "InsufficientTransparentFunds1": "Insufficient transparent funds, have ",
-      "InsufficientTransparentFunds2": " more to avoid creating invalid change output ",
-      "InsufficientTransparentFunds3": " (dust threshold is ",
-      "BadTxnsOversize": "You got a 'bad-txns-oversize' error. Please send the smaller amount first. Check FAQ section of https://snowgem.org/technology/modern-wallet",
-      "BadTxnsJoinsplitRequirementsNotMet": "You got a 'bad-txns-joinsplit-requirements-not-met' error. Please rescan the wallet.",
-      "NonCoinbaseUTXOsToSpend": "You need to shield coins first before sending to another address. Go to Shield Coins, choose your shielding private address and click on Shield or Shield All (in case of multiple MN´s)"
+      "InsufficientShieldedFunds1": "Ungenügend abgeschirmtes Guthaben, du hast ",
+      "InsufficientShieldedFunds2": ", du brauchst ",
+      "InsufficientTransparentFunds1": "Ungenügend transparentes Guthaben, du hast ",
+      "InsufficientTransparentFunds2": " mehr, um ungültige Änderungsausgaben zu vermeiden ",
+      "InsufficientTransparentFunds3": " (Der Grenzwert ist ",
+      "BadTxnsOversize": "Du hast einen 'bad-txns-oversize' Fehler. Bitte sende zuerst den kleineren Betrag. Mehr dazu in den FAQ https://snowgem.org/technology/modern-wallet",
+      "BadTxnsJoinsplitRequirementsNotMet": "Du hast einen 'bad-txns-joinsplit-requirements-not-met' Fehler. Bitte führe einen Rescan des Wallets durch.",
+      "NonCoinbaseUTXOsToSpend": "Du musst die Coins erst abschirmen bevor du sie an eine andere Adresse schicken kannst. Gehe zu Coins abschirmen, wähle deine private Adresse und klicke Abschirmen bzw. Alle Coins abschirmen (im Falle von mehreren MN´s)"
     }
   }
 }
