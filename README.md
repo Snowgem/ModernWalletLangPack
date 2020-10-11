@@ -20,12 +20,9 @@ _The incomplete language files have the incomplete lines in *english* at the mom
 | --- | --- |
 | Arabic | [AE] |
 | Chinese | [CN] |
-| Czech | [CZ] |
 | Dutch | [NL] |
-| German | [DE] |
 | Hungarian | [HU] |
 | Icelandic | [IS] |
-| Italian | [IT] |
 | Korean | [KR] |
 | Polish | [PL] |
 | Spanish | [ES] |
