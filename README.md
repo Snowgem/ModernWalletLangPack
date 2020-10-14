@@ -18,7 +18,6 @@ _The incomplete language files have the incomplete lines in *english* at the mom
 
 | Language | ISO 3166-1 alpha-2 |
 | --- | --- |
-| Arabic | [AE] |
 | Chinese | [CN] |
 | Dutch | [NL] |
 | Hungarian | [HU] |

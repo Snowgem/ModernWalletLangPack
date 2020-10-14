@@ -418,14 +418,14 @@
     "confirmationTitle": "هل أنت واثق؟",
     "helpButton": "مساعدة",
     "errors": {
-      "InsufficientShieldedFunds1": "Insufficient shielded funds, have ",
-      "InsufficientShieldedFunds2": ", need ",
-      "InsufficientTransparentFunds1": "Insufficient transparent funds, have ",
-      "InsufficientTransparentFunds2": " more to avoid creating invalid change output ",
-      "InsufficientTransparentFunds3": " (dust threshold is ",
-      "BadTxnsOversize": "You got a 'bad-txns-oversize' error. Please send the smaller amount first. Check FAQ section of https://snowgem.org/technology/modern-wallet",
-      "BadTxnsJoinsplitRequirementsNotMet": "You got a 'bad-txns-joinsplit-requirements-not-met' error. Please rescan the wallet.",
-      "NonCoinbaseUTXOsToSpend": "You need to shield coins first before sending to another address. Go to Shield Coins, choose your shielding private address and click on Shield or Shield All (in case of multiple MN´s)"
+      "InsufficientShieldedFunds1": "أرصدة محمية غير كافية، لديك ",
+      "InsufficientShieldedFunds2": ", بحاجة إلى ",
+      "InsufficientTransparentFunds1": "أرصدة شفافة غير كافية، لديك ",
+      "InsufficientTransparentFunds2": " المزيد لتجنب إنشاء تغيير إخراج غير صالح ",
+      "InsufficientTransparentFunds3": " (عتبة الغبار يكون ",
+      "BadTxnsOversize": "لقد تلقيت خطأ 'تحويل سيئ كبير الحجم'. الرجاء إرسال مبالغ أصغر أولاً. تحقق من قسم الأسئلة الشائعة في https://snowgem.org/technology/modern-wallet",
+      "BadTxnsJoinsplitRequirementsNotMet": "قد تلقيت خطأ 'لم يتم استيفاء متطلبات الانضمام إلى المعاملات السيئة' . يرجى إعادة فحص المحفظة",
+      "NonCoinbaseUTXOsToSpend": "تحتاج إلى حماية العملات أولاً قبل إرسالها إلى عنوان آخر. إذهب إلى العملات المحمية، و إختر عنوان الحماية الخاص بك و أنقر على حماية أو حماية الكل (في حالة وجود عدة ماسترنود)"
     }
   }
 }
