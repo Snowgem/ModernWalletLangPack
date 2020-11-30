@@ -242,6 +242,10 @@
     "choosePrivateAddr": "Choisir l'adresse privée...",
     "shield": "Privatisez",
     "shieldAll": "Privatisez tous les monnaies",
+    "tooltip": {
+      "shield": "Privatiser les pièces de monnaie générées de l'adresse publique sélectionnée vers l'adresse privée sélectionnée",
+      "shieldAll": "Privatiser tous les pièces de monnaies générées vers l'adresse privée sélectionnée"
+    },
     "operations": {
       "walletNotSynced": "Votre porte-monnaie n'est pas synchronisé",
       "shieldAll": "Voulez vous privatisé tous les monnaie généré a",

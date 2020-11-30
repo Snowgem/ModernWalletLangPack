@@ -88,10 +88,10 @@
     "createNewAddressButton": "Neue öffentliche Adresse erstellen",
     "newPrivateAddressButton": "Neue private Adresse (Sapling)",
     "createNewPrivateAddressButton": "Neue private Adresse erstellen",
-    "newAddressBookButton": "Neues Adressbuch",
-    "addNewAddressBookButton": "Neues Adressbuch hinzufügen",
-    "editAddressBookButton": "Adressbuch bearbeiten",
-    "viewAddressBookButton": "Adressbuch anzeigen",
+    "newAddressBookButton": "Neue Adresse",
+    "addNewAddressBookButton": "Neue Adresse hinzufügen",
+    "editAddressBookButton": "Adressbezeichnung bearbeiten",
+    "viewAddressBookButton": "Adressbezeichnung anzeigen",
     "shieldCoinButton": "Coins abschirmen",
     "modalImportButton": "Importieren",
     "modalCreateButton": "Erstellen",
@@ -242,6 +242,10 @@
     "choosePrivateAddr": "Private Adresse auswählen...",
     "shield": "Abschirmen",
     "shieldAll": "Alle Coins abschirmen",
+    "tooltip": {
+      "shield": "Shield generated coin from selected public address to selected private address",
+      "shieldAll": "Shield all generated coin to selected private address"
+    },
     "operations": {
       "walletNotSynced": "Ihre Wallet ist nicht synchronisiert",
       "shieldAll": "Wollen Sie alle generierten Coins abschirmen zu folgende(n) Adresse(n)?",

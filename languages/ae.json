@@ -242,6 +242,10 @@
     "choosePrivateAddr": "إخترعنوان خاص...",
     "shield": "درع",
     "shieldAll": "حماية جميع العملات",
+    "tooltip": {
+      "shield": "Shield generated coin from selected public address to selected private address",
+      "shieldAll": "Shield all generated coin to selected private address"
+    },
     "operations": {
       "walletNotSynced": "لم تتم مزامنة محفظتك",
       "shieldAll": "هل تريد حماية جميع العملات التي تم إنشاؤها إلى",

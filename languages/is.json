@@ -242,6 +242,10 @@
     "choosePrivateAddr": "Veldu einkareikningsnúmer...",
     "shield": "Verja",
     "shieldAll": "Verja alla mynt",
+    "tooltip": {
+      "shield": "Skýldu framkölluðum myntum frá valdri gegnsæu reikningsnúmeri",
+      "shieldAll": "Skýldu öllum framkölluðum myntum til valins einkareikningsnúmers"
+    },
     "operations": {
       "walletNotSynced": "Veskið þitt er ekki samstillt",
       "shieldAll": "Viltu verja alla myntina þína til",

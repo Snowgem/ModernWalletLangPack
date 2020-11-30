@@ -242,6 +242,10 @@
     "choosePrivateAddr": "Elegir dirección privada...",
     "shield": "Blindar",
     "shieldAll": "Blindar todas las Monedas",
+    "tooltip": {
+      "shield": "Shield generated coin from selected public address to selected private address",
+      "shieldAll": "Shield all generated coin to selected private address"
+    },
     "operations": {
       "walletNotSynced": "Tu cartera no está sincronizada",
       "shieldAll": "Quieres blindar todas las monedas generadas a",

@@ -88,8 +88,8 @@
     "createNewAddressButton": "Create new public address",
     "newPrivateAddressButton": "New Private Address (Sapling)",
     "createNewPrivateAddressButton": "Create new private address",
-    "newAddressBookButton": "New Address Book",
-    "addNewAddressBookButton": "Add New Address Book",
+    "newAddressBookButton": "New Address Label",
+    "addNewAddressBookButton": "Add New Address Label",
     "editAddressBookButton": "Edit Address Book",
     "viewAddressBookButton": "View Address Book",
     "shieldCoinButton": "Shield Coins",
@@ -242,6 +242,10 @@
     "choosePrivateAddr": "Choose private address...",
     "shield": "Shield",
     "shieldAll": "Shield All Coins",
+    "tooltip": {
+      "shield": "Shield generated coin from selected public address to selected private address",
+      "shieldAll": "Shield all generated coin to selected private address"
+    },
     "operations": {
       "walletNotSynced": "Your wallet is not synced",
       "shieldAll": "Do you want to shield all generated coin to",

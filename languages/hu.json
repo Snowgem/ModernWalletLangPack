@@ -242,6 +242,10 @@
     "choosePrivateAddr": "Privát cím választása...",
     "shield": "Bebeiztosít",
     "shieldAll": "Összes digitális pénz bebiztosítása",
+    "tooltip": {
+      "shield": "Shield generated coin from selected public address to selected private address",
+      "shieldAll": "Shield all generated coin to selected private address"
+    },
     "operations": {
       "walletNotSynced": "A pénztárca nincs szinkronizálva",
       "shieldAll": "Szeretné bebiztosítani az összes digitális pénzt",

@@ -242,6 +242,10 @@
     "choosePrivateAddr": "Vælg privat adresse...",
     "shield": "Beskyt",
     "shieldAll": "Beskyt Alle Mønter",
+    "tooltip": {
+      "shield": "Shield genereret mønter fra valgt offentlig adresse til valgt privat adresse",
+      "shieldAll": "Shield alle genereret mønter til valgt privat adresse"
+    },
     "operations": {
       "walletNotSynced": "Din tegnebog er ikke synkroniseret",
       "shieldAll": "Vil du beskytte/sende alle genererede mønter til",

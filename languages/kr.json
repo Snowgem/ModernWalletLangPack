@@ -242,6 +242,10 @@
     "choosePrivateAddr": "비공인주소를 선택하세요",
     "shield": "쉴드하기",
     "shieldAll": "모든 코인을 쉴드하기",
+    "tooltip": {
+      "shield": "Shield generated coin from selected public address to selected private address",
+      "shieldAll": "Shield all generated coin to selected private address"
+    },
     "operations": {
       "walletNotSynced": "지갑이 아직 싱크되어 있지 않습니다",
       "shieldAll": "모든 코인을 다음 주소로 쉴드하겠습니까? : ",

@@ -215,12 +215,12 @@
     "max": "Max",
     "value": "Valoare",
     "messagePrivTx": "Mesaj (doar pt. tranzacție privată)",
-    "fee": "Taxă",
+    "fee": "Comision",
     "send": "Trimite",
     "sendMany": "Trimite multe",
     "sendConfirmation1": "Vei trimite",
     "sendConfirmation2": "la",
-    "sendConfirmation3": "cu taxa",
+    "sendConfirmation3": "având comisionul",
     "placeholder": {
       "recipientAddress": "Introduceți adresa destinatarului",
       "amount": "Cantitate",
@@ -230,7 +230,7 @@
       "selectSendAddress": "Vă rugăm să introduceți adresa expeditorului",
       "putReceiverAddress": "Vă rugăm să introduceți adresa destinatarului",
       "putAmount": "Vă rugăm să completați suma pe care doriți să o trimiteți",
-      "putTxFee": "Vă rugăm să completați taxa de tranzacție",
+      "putTxFee": "Vă rugăm să completați comisionul tranzacției",
       "invalidAddress": "Adresă invalidă",
       "checkTxError": "Eroare de verificare a tranzacției"
     }
@@ -242,6 +242,10 @@
     "choosePrivateAddr": "Alegeți adresa privată...",
     "shield": "Protejați",
     "shieldAll": "Protejați Toate Monedele",
+    "tooltip": {
+      "shield": "Protejați monedele generate de la adresa publică selectată la adresa privată selectată",
+      "shieldAll": "Protejați toate monedele generate la adresa privată selectată"
+    },
     "operations": {
       "walletNotSynced": "Portofelul dumneavoastră nu este sincronizat",
       "shieldAll": "Vrei să protejezi toate monedele generate în",

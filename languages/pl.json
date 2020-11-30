@@ -242,6 +242,10 @@
     "choosePrivateAddr": "Wybierz adres prywatny...",
     "shield": "Shield",
     "shieldAll": "Shield wszystkie monety",
+    "tooltip": {
+      "shield": "Shielduj wygenerowane monety z  wybranego adresu publicznego do prywatnego",
+      "shieldAll": "shielduj wszystkie wygenerowane monety do wybranego adresu prywatnego"
+    },
     "operations": {
       "walletNotSynced": "Twój portfel nie jest zsynchronizowany",
       "shieldAll": "Czy chcesz shildować wszystkie wygenerowane monety?",
