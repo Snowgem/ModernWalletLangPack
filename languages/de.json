@@ -8,10 +8,10 @@
   "crafted": {
     "craftedWith": "Hergestellt mit",
     "by": "vom",
-    "snowgemTeam": "SnowGem Team"
+    "tentTeam": "TENT Team"
   },
   "navbar": {
-    "logoTitle": "SnowGem Wallet",
+    "logoTitle": "TENT Core",
     "menuIconTitle": "Toggle-Menü",
     "reloadIconTitle": "Wallet neu laden",
     "aboutIconTitle": "Über",
@@ -243,8 +243,8 @@
     "shield": "Abschirmen",
     "shieldAll": "Alle Coins abschirmen",
     "tooltip": {
-      "shield": "Shield generated coin from selected public address to selected private address",
-      "shieldAll": "Shield all generated coin to selected private address"
+      "shield": "Generierte Coins von der ausgewählten öffentlichen Adresse zur ausgewählten privaten Adresse abschirmen.",
+      "shieldAll": "Alle erzeugten Coins zur ausgewählten privaten Adresse abschirmen."
     },
     "operations": {
       "walletNotSynced": "Ihre Wallet ist nicht synchronisiert",
@@ -391,7 +391,7 @@
     "selectDataDir": "Wählen Sie den Pfad für die Daten aus"
   },
   "endscreen": {
-    "shutdown1": "ModernWallet wird ausgeschaltet",
+    "shutdown1": "TENT Core wird ausgeschaltet",
     "shutdown2": "Bitte schalten Sie den Computer nicht aus",
     "shutdown3": "bis dieses Fenster verschwindet."
   },
@@ -427,9 +427,10 @@
       "InsufficientTransparentFunds1": "Ungenügend transparentes Guthaben, Sie haben ",
       "InsufficientTransparentFunds2": " zusätzlich, um ungültiges Wechselgeld zu vermeiden ",
       "InsufficientTransparentFunds3": " (Der Mindestwert beträgt ",
-      "BadTxnsOversize": "Es ist ein 'bad-txns-oversize' Fehler aufgetreten. Bitte senden Sie zuerst den kleineren Betrag. Mehr dazu in den FAQ https://snowgem.org/technology/modern-wallet",
+      "BadTxnsOversize": "Es ist ein 'bad-txns-oversize' Fehler aufgetreten. Bitte senden Sie zuerst den kleineren Betrag. Mehr dazu in den FAQ https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
       "BadTxnsJoinsplitRequirementsNotMet": "Es ist ein 'bad-txns-joinsplit-requirements-not-met' Fehler aufgetreten. Bitte führen Sie einen Rescan des Wallets durch.",
-      "NonCoinbaseUTXOsToSpend": "Sie müssen die Coins erst abschirmen bevor Sie sie an eine andere Adresse schicken können. Gehen Sie zu 'Coins abschirmen', wählen Sie Ihre private Adresse und klicken Sie 'Abschirmen' bzw. 'Alle Coins abschirmen' (im Falle von mehreren MN´s)."
+      "NonCoinbaseUTXOsToSpend": "Sie müssen die Coins erst abschirmen bevor Sie sie an eine andere Adresse schicken können. Gehen Sie zu 'Coins abschirmen', wählen Sie Ihre private Adresse und klicken Sie 'Abschirmen' bzw. 'Alle Coins abschirmen' (im Falle von mehreren MN´s).",
+      "NoCoinbaseFundsToShield": "There are no masternode rewards in this address to shield. Use Send Coins instead."
     }
   }
 }

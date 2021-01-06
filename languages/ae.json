@@ -8,10 +8,10 @@
   "crafted": {
     "craftedWith": "تم من طرف",
     "by": "من طرف",
-    "snowgemTeam": "SnowGem فريق"
+    "tentTeam": "TENT فريق"
   },
   "navbar": {
-    "logoTitle": "SnowGem محفظة",
+    "logoTitle": "TENT Core",
     "menuIconTitle": "قائمة التبديل",
     "reloadIconTitle": "إعادة تحميل المحفظة",
     "aboutIconTitle": "حول",
@@ -243,8 +243,8 @@
     "shield": "درع",
     "shieldAll": "حماية جميع العملات",
     "tooltip": {
-      "shield": "Shield generated coin from selected public address to selected private address",
-      "shieldAll": "Shield all generated coin to selected private address"
+      "shield": "أنشأ درع حماية لعملة معدنية من عنوان عام محدد إلى عنوان خاص محدد",
+      "shieldAll": "أنشأ درع حماية لجميع العملات التي تم إنشاؤها على العنوان الخاص المحدد"
     },
     "operations": {
       "walletNotSynced": "لم تتم مزامنة محفظتك",
@@ -427,9 +427,10 @@
       "InsufficientTransparentFunds1": "أرصدة شفافة غير كافية، لديك ",
       "InsufficientTransparentFunds2": " المزيد لتجنب إنشاء تغيير إخراج غير صالح ",
       "InsufficientTransparentFunds3": " (عتبة الغبار يكون ",
-      "BadTxnsOversize": "لقد تلقيت خطأ 'تحويل سيئ كبير الحجم'. الرجاء إرسال مبالغ أصغر أولاً. تحقق من قسم الأسئلة الشائعة في https://snowgem.org/technology/modern-wallet",
+      "BadTxnsOversize": "لقد تلقيت خطأ 'تحويل سيئ كبير الحجم'. الرجاء إرسال مبالغ أصغر أولاً. تحقق من قسم الأسئلة الشائعة في https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
       "BadTxnsJoinsplitRequirementsNotMet": "قد تلقيت خطأ 'لم يتم استيفاء متطلبات الانضمام إلى المعاملات السيئة' . يرجى إعادة فحص المحفظة",
-      "NonCoinbaseUTXOsToSpend": "تحتاج إلى حماية العملات أولاً قبل إرسالها إلى عنوان آخر. إذهب إلى العملات المحمية، و إختر عنوان الحماية الخاص بك و أنقر على حماية أو حماية الكل (في حالة وجود عدة ماسترنود)"
+      "NonCoinbaseUTXOsToSpend": "تحتاج إلى حماية العملات أولاً قبل إرسالها إلى عنوان آخر. إذهب إلى العملات المحمية، و إختر عنوان الحماية الخاص بك و أنقر على حماية أو حماية الكل (في حالة وجود عدة ماسترنود)",
+      "NoCoinbaseFundsToShield": "There are no masternode rewards in this address to shield. Use Send Coins instead."
     }
   }
 }

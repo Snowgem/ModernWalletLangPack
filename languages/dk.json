@@ -8,10 +8,10 @@
   "crafted": {
     "craftedWith": "Lavet med",
     "by": "af",
-    "snowgemTeam": "SnowGem Team"
+    "tentTeam": "TENT Team"
   },
   "navbar": {
-    "logoTitle": "SnowGem Tegnebog",
+    "logoTitle": "TENT Core",
     "menuIconTitle": "Toggle Menu",
     "reloadIconTitle": "Genstart Tegnebog",
     "aboutIconTitle": "Om",
@@ -391,7 +391,7 @@
     "selectDataDir": "Vælg data mappe"
   },
   "endscreen": {
-    "shutdown1": "ModernWallet lukker ned",
+    "shutdown1": "TENT Core lukker ned",
     "shutdown2": "Venligst ikke sluk din computer",
     "shutdown3": "før denne besked er væk."
   },
@@ -427,9 +427,10 @@
       "InsufficientTransparentFunds1": "Ikke nok transparente mønter, har ",
       "InsufficientTransparentFunds2": " for at undgå at lave invalide change-output",
       "InsufficientTransparentFunds3": " (støv grænse er ",
-      "BadTxnsOversize": "Du har en 'bad-txns-oversize' fejl. Venligst send mindre beløb først. Tjek FAQ section af https://snowgem.org/technology/modern-wallet",
+      "BadTxnsOversize": "Du har en 'bad-txns-oversize' fejl. Venligst send mindre beløb først. Tjek FAQ section af https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
       "BadTxnsJoinsplitRequirementsNotMet": "Du har en 'bad-txns-joinsplit-requirements-not-met' fejl. Venligst brug rescan funktionen.",
-      "NonCoinbaseUTXOsToSpend": "Du skal shield mønter først før du sender til andre addresser. Gå til Shield/Skjold Mønter, Vælg din privat addresse som du vil Shield til og så tryk Shield eller Shield All (i tilfælde af flere MN´s)"
+      "NonCoinbaseUTXOsToSpend": "Du skal shield mønter først før du sender til andre addresser. Gå til Shield/Skjold Mønter, Vælg din privat addresse som du vil Shield til og så tryk Shield eller Shield All (i tilfælde af flere MN´s)",
+      "NoCoinbaseFundsToShield": "There are no masternode rewards in this address to shield. Use Send Coins instead."
     }
   }
 }

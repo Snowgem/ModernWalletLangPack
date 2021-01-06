@@ -2,16 +2,16 @@
   "language": "Polish",
   "menubar": {
     "titleBtn": "Restart Portfela",
-    "text1": "Czy chesz wybrać",
-    "text2": "Proszę poczekać dopuki portfel sie nie przeładuje."
+    "text1": "Czy chcesz wybrać",
+    "text2": "Proszę poczekać dopóki portfel się nie przeładuje."
   },
   "crafted": {
     "craftedWith": "Stworzony przez",
     "by": "przez",
-    "snowgemTeam": "SnowGem Team"
+    "tentTeam": "TENT Team"
   },
   "navbar": {
-    "logoTitle": "SnowGem Portfel",
+    "logoTitle": "TENT Core",
     "menuIconTitle": "Toggle Menu",
     "reloadIconTitle": "Przeładuj Portfel",
     "aboutIconTitle": "FAQ",
@@ -58,7 +58,7 @@
     "importantInfo": "Ważne informacje!",
     "table": {
       "total": "Suma",
-      "immature": "Immature",
+      "immature": "Nadchodzące",
       "unconfirmed": "Niepotwierdzone",
       "transparent": "Transparentne",
       "private": "Prywatne",
@@ -124,7 +124,7 @@
     },
     "operations": {
       "keysImportTitle": "Uwaga",
-      "keysImportMsg": "Importowanie adresu zajmuje dużo czasu, twój portfel nie będzie altualizowany do puki cały proces się nie zakończy.\nTo może zająć więcej niż 10 minut",
+      "keysImportMsg": "Importowanie adresu zajmuje dużo czasu, twój portfel nie będzie aktualizowany dopóki cały proces się nie zakończy.\nTo może zająć więcej niż 10 minut",
       "readOnlyErrTitle": "Alarm",
       "readOnlyErrMsg": "Nie można wybrać adresów tylko do odczytu",
       "emptyNameErrMsg": "Nazwa nie może być pusta",
@@ -180,7 +180,7 @@
     "getPrivKey": "Uzyskaj Klucz prywatny",
     "generateMnData": "Generuje Dane dla Masternoda",
     "newMnData": "Nowe dane Masternoda",
-    "setupMn": "Ustawienia masternoda",
+    "setupMn": "Ustawienia Masternoda",
     "MnKey": "klucz Masternoda",
     "operations": {
       "aliasEmpty": "Nazwa aliasu nie może byc pusta",
@@ -204,7 +204,7 @@
     "successVoted": "Zagłosowano za propozycją",
     "results": "Wyniki",
     "thankYou": "Dziękuję!",
-    "placeholder": "Znajdź: Nazwe propozycji"
+    "placeholder": "Znajdź: Nazwę propozycji"
   },
   "sendView": {
     "fromAddress": "Z adresu",
@@ -227,12 +227,12 @@
       "message": "Wiadomość"
     },
     "operations": {
-      "selectSendAddress": "Prosze wybrać adres wysyłki",
+      "selectSendAddress": "Proszę wybrać adres wysyłki",
       "putReceiverAddress": "Proszę wprowadzić adres odbiorcy",
-      "putAmount": "Prosze wprowadzić ilość monet do wysłania",
-      "putTxFee": "Prosze wprowadzić wartośc prowizji",
+      "putAmount": "Proszę wprowadzić ilość monet do wysłania",
+      "putTxFee": "Proszę wprowadzić wartość prowizji",
       "invalidAddress": "Niepoprawny adres",
-      "checkTxError": "Sprawdź błędy tranzakcji"
+      "checkTxError": "Sprawdź błędy transakcji"
     }
   },
   "shieldView": {
@@ -241,15 +241,15 @@
     "privateAddr": "Adres prywatny",
     "choosePrivateAddr": "Wybierz adres prywatny...",
     "shield": "Shield",
-    "shieldAll": "Shield wszystkie monety",
+    "shieldAll": "Shielduj wszystkie monety",
     "tooltip": {
       "shield": "Shielduj wygenerowane monety z  wybranego adresu publicznego do prywatnego",
-      "shieldAll": "shielduj wszystkie wygenerowane monety do wybranego adresu prywatnego"
+      "shieldAll": "Shielduj wszystkie wygenerowane monety do wybranego adresu prywatnego"
     },
     "operations": {
       "walletNotSynced": "Twój portfel nie jest zsynchronizowany",
       "shieldAll": "Czy chcesz shildować wszystkie wygenerowane monety?",
-      "noCoinToShield": "nie ma monet do shildowania",
+      "noCoinToShield": "Nie ma monet do shildowania",
       "multipleShield": "Shieldowanie z wielu adresów zostało zakończone",
       "shieldAllDone": "Shieldowanie zostało zakończone"
     }
@@ -261,7 +261,7 @@
       "direction": "Kierunek",
       "date": "Data",
       "address": "Adres",
-      "amount": "Ilosć",
+      "amount": "Ilość",
       "validated": "Zatwierdzone",
       "details": "Szczegóły",
       "send": "Wyślij",
@@ -277,8 +277,8 @@
     "selectOneVer": "Wybierz jedną wersję",
     "selectDaemon": "Wybierz demona",
     "selectDir": "Wybierz katalog",
-    "amazing": "Niesamowite rzeczy przychodzą do tych , kórzy czekają",
-    "currentProcess": "Przygotowywuję",
+    "amazing": "Niesamowite rzeczy przychodzą do tych, którzy czekają",
+    "currentProcess": "Przygotowuję",
     "getCoinList": "Pobieram listę monet",
     "checkCoin": "Sprawdzam wybraną monetę",
     "selectCoinButton": "Wybierz Monetę",
@@ -293,12 +293,12 @@
     "daemonVerSelect": "Wybierz wersję z listy rozwijanej",
     "checkDataFolder": "Sprawdzanie folderu danych",
     "checkBlockchain": "Sprawdzanie blockchain`u",
-    "autoDownloadBlockchain": "Czy chesz pobrać blockchain automatycznie (Ta akcja przyśpieszy twój proces synchronizacji)",
+    "autoDownloadBlockchain": "Czy chcesz pobrać blockchain automatycznie (Ta akcja przyśpieszy twój proces synchronizacji)",
     "startDeamon": "Startuję demona",
     "finishing": "Kończę",
     "serverErr": "Nie mogę pobrać danych z serwera",
     "downloadNewFiles": "Pobieram nowe pliki",
-    "downloadQuestion": "Czy chesz pobrać?",
+    "downloadQuestion": "Czy chcesz pobrać?",
     "isAvailable": "Jest dostępny",
     "checking": "Sprawdzam",
     "selectBinaryFiles": "Wybierz pliki binarne",
@@ -313,7 +313,7 @@
     "rewindingBlocks": "Przewijam bloki jeśli wymagane"
   },
   "settingsView": {
-    "toolsBtn": "narzędzia",
+    "toolsBtn": "Narzędzia",
     "getPeersBtn": "Pobierz Peers",
     "setPeersBtn": "Ustaw Peers",
     "debugBtn": "Debuguj",
@@ -326,14 +326,14 @@
     "currency": "Monety",
     "dateType": "Typ daty",
     "txTime": "Czas transakcji",
-    "backupWlt": "kopia zapasowa portfela",
+    "backupWlt": "Kopia zapasowa portfela",
     "restoreWlt": "Odzyskaj portfel",
     "rescanWlt": "Reskanuj portfel",
     "reindexWlt": "Reindexuj portfel",
     "autoStartBtn": "Auto Start",
-    "autoStartTip": "Auto start portfela razem z systeme",
+    "autoStartTip": "Auto start portfela razem z systemem",
     "autoUpdateDaemonBtn": "Automatyczna aktualizacja demona",
-    "autoUpdateDaemonTip": "Automatyzcna aktualizacja ostatniego pliku demona",
+    "autoUpdateDaemonTip": "Automatyczna aktualizacja ostatniego pliku demona",
     "enableLogBtn": "Włącz logowanie",
     "enableLogTip": "Włącz zapisywanie logów do pliku",
     "txsChartBtn": "Wykres transakcji",
@@ -359,9 +359,9 @@
       "year": "Rok",
       "doNotUse": "Nie używać",
       "emptyBotName": "Nazwa Bota nie może być pusta",
-      "emptyApiKey": "Klucze API nie moga być puste",
+      "emptyApiKey": "Klucze API nie mogą być puste",
       "restartWallet": "Czy chcesz zrestartować portfel?",
-      "restartWallet1": "Musisz zrestartować portfel aby zmienić monetę. Prosze czekać dopuki portfel sie nie przeładuje",
+      "restartWallet1": "Musisz zrestartować portfel aby zmienić monetę. Proszę czekać dopóki portfel sie nie przeładuje",
       "restartWallet2": "Zrestartuj portfel aby zatwierdzić zmiany",
       "revertDefault": "ustawić standardowe ustawienia?",
       "addPeers": "Dodaj Peers",
@@ -387,13 +387,13 @@
     "scopeUpdate2": "Pobieranie",
     "scopeUpdate3": "Sprawdzanie plików blockchain",
     "scopeUpdate4": "Łączenie plików",
-    "downloadErr4": "Błąd pobieranie blockchain, prosze zrestartować portfel.",
+    "downloadErr4": "Błąd pobieranie blockchain, proszę zrestartować portfel.",
     "selectDataDir": "Wybierz katalog danych"
   },
   "endscreen": {
-    "shutdown1": "ModernWallet wyłącza się.",
+    "shutdown1": "TENT Core wyłącza się.",
     "shutdown2": "Prosimy o nie wyłączania komputera,",
-    "shutdown3": "dopuki to okno nie zniknie."
+    "shutdown3": "dopóki to okno nie zniknie."
   },
   "global": {
     "success": "Udało się",
@@ -411,12 +411,12 @@
     "reset": "Reset",
     "default": "Standardowe",
     "ok": "OK",
-    "cancel": "Abuluj",
+    "cancel": "Anuluj",
     "yes": "Tak",
     "yesRecommended": "Tak(Rekomendowane)",
     "no": "Nie",
     "continue": "Kontynuuj",
-    "back": "Spowrotem",
+    "back": "Cofnji",
     "download": "Pobierz",
     "version": "Wersja",
     "confirmationTitle": "Jesteś pewien?",
@@ -427,9 +427,10 @@
       "InsufficientTransparentFunds1": "Insufficient transparent funds, have ",
       "InsufficientTransparentFunds2": " more to avoid creating invalid change output ",
       "InsufficientTransparentFunds3": " (dust threshold is ",
-      "BadTxnsOversize": "You got a 'bad-txns-oversize' error. Please send the smaller amount first. Check FAQ section of https://snowgem.org/technology/modern-wallet",
+      "BadTxnsOversize": "You got a 'bad-txns-oversize' error. Please send the smaller amount first. Check FAQ section of https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
       "BadTxnsJoinsplitRequirementsNotMet": "You got a 'bad-txns-joinsplit-requirements-not-met' error. Please rescan the wallet.",
-      "NonCoinbaseUTXOsToSpend": "You need to shield coins first before sending to another address. Go to Shield Coins, choose your shielding private address and click on Shield or Shield All (in case of multiple MN´s)"
+      "NonCoinbaseUTXOsToSpend": "You need to shield coins first before sending to another address. Go to Shield Coins, choose your shielding private address and click on Shield or Shield All (in case of multiple MN´s)",
+      "NoCoinbaseFundsToShield": "There are no masternode rewards in this address to shield. Use Send Coins instead."
     }
   }
 }

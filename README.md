@@ -1,7 +1,7 @@
-## TentCore
-Translations for TentCore (SnowGem)
+## Tent Core
+Translations for Tent Core (TENT)
 
-_We need your help. If you do want to contribute with a translation for ModernWallet please do the following:_
+_We need your help. If you do want to contribute with a translation for TENT Core please do the following:_
 * _Clone this repository_
 * _Copy the file **en.json**_
 * _Rename the file **[your language ISO 3166-1 alpha-2 code].json** (example **br.json**)(check https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 for your language code)_
