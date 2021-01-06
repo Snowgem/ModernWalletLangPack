@@ -1,5 +1,5 @@
-## SnowgemModernWallet
-Translations for ModernWallet (SnowGem)
+## TentCore
+Translations for TentCore (SnowGem)
 
 _We need your help. If you do want to contribute with a translation for ModernWallet please do the following:_
 * _Clone this repository_
