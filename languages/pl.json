@@ -81,8 +81,8 @@
   "addressesView": {
     "importKeysButton": "Import prywatnych kluczy",
     "importKeysButtonImporting": "Importuj",
-    "getAdresses": "Get Privatekey",
-    "getMultipleAdresses": "Get Privatekeys",
+    "getAdresses": "Zdobądź klucz prywatny",
+    "getMultipleAdresses": "Zdobądź klucz prywatny",
     "actionsButton": "Actions",
     "newAddressButton": "Nowy Adres",
     "createNewAddressButton": "Nowy publiczny adres ",
@@ -103,24 +103,24 @@
     "hideAddressButton": "Ukryj adres",
     "hideAddressesButton": "Ukryj adresy",
     "showAllAddressesButton": "Pokaż wszystkie adresy ",
-    "modalMultipleShieldErrMsg": "Prosze o wskazanie adresu prywatnego zanim rozpoczniesz shielding",
-    "modalMultipleShieldConfirmMsg": "Czy chesz shieldować wszystkie wygenerowne monety",
+    "modalMultipleShieldErrMsg": "Proszę o wskazanie adresu prywatnego zanim rozpoczniesz shielding",
+    "modalMultipleShieldConfirmMsg": "Czy chcesz shieldować wszystkie wygenerowane monety",
     "exportMessage": "Wszystkie prywatne klucze zostały wyeksportowane do: ",
     "exportToFile": "Eksport wszystkich prywatnych kluczy",
     "placeholder": {
       "main": "Search: Address / Name",
       "createAddress": "Address name",
-      "importPrivatekeys": "Each privatekey in one line"
+      "importPrivatekeys": "Każdy prywatny klucz to jedna linia"
     },
     "table": {
-      "name": "Name",
+      "name": "Nazwa",
       "qr": "QR",
       "type": "Typ",
       "amount": "Ilość",
       "book": "książka",
       "address": "Adres",
-      "privateType": "prywatny",
-      "publicType": "publiczny"
+      "privateType": "Prywatny",
+      "publicType": "Publiczny"
     },
     "operations": {
       "keysImportTitle": "Uwaga",
@@ -166,9 +166,9 @@
       "privateKey": "Klucz Prywatny",
       "txId": "ID Tranzakcji",
       "index": "Index",
-      "duplicateAliasName": "Zduplikowano nazwe aliasu",
+      "duplicateAliasName": "Zduplikowano nazwę aliasu",
       "duplicatePrivKey": "Zduplikowany prywatny klucz",
-      "duplicateTxHash": "Zduplikowany hash tranzakcji",
+      "duplicateTxHash": "Zduplikowany hash transakcji",
       "editMnConfirm": "Czy zrestartować portfel aby aktywować nową konfigurację?",
       "notice": "Notice",
       "copied": "Skopiowano",
@@ -183,7 +183,7 @@
     "setupMn": "Ustawienia Masternoda",
     "MnKey": "klucz Masternoda",
     "operations": {
-      "aliasEmpty": "Nazwa aliasu nie może byc pusta",
+      "aliasEmpty": "Nazwa aliasu nie może być pusta",
       "aliasWhitespace": "Nazwa aliasu nie może zawierać spacji",
       "ipEmpty": "Pole adresu IP nie może być puste",
       "privKeyEmpty": "Pole klucza prywatnego nie może być puste",
@@ -363,7 +363,7 @@
       "restartWallet": "Czy chcesz zrestartować portfel?",
       "restartWallet1": "Musisz zrestartować portfel aby zmienić monetę. Proszę czekać dopóki portfel sie nie przeładuje",
       "restartWallet2": "Zrestartuj portfel aby zatwierdzić zmiany",
-      "revertDefault": "ustawić standardowe ustawienia?",
+      "revertDefault": "Ustawić standardowe ustawienia?",
       "addPeers": "Dodaj Peers",
       "walletBackup": "Utworzono kopię zapasową portfela:",
       "cannotBackupWallet": "Nie można wykonać kopii zapasowej portfela",
@@ -422,15 +422,15 @@
     "confirmationTitle": "Jesteś pewien?",
     "helpButton": "Pomoc",
     "errors": {
-      "InsufficientShieldedFunds1": "Insufficient shielded funds, have ",
-      "InsufficientShieldedFunds2": ", need ",
-      "InsufficientTransparentFunds1": "Insufficient transparent funds, have ",
-      "InsufficientTransparentFunds2": " more to avoid creating invalid change output ",
-      "InsufficientTransparentFunds3": " (dust threshold is ",
-      "BadTxnsOversize": "You got a 'bad-txns-oversize' error. Please send the smaller amount first. Check FAQ section of https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
-      "BadTxnsJoinsplitRequirementsNotMet": "You got a 'bad-txns-joinsplit-requirements-not-met' error. Please rescan the wallet.",
-      "NonCoinbaseUTXOsToSpend": "You need to shield coins first before sending to another address. Go to Shield Coins, choose your shielding private address and click on Shield or Shield All (in case of multiple MN´s)",
-      "NoCoinbaseFundsToShield": "There are no masternode rewards in this address to shield. Use Send Coins instead."
+      "InsufficientShieldedFunds1": "Nie zabezpieczono wystarczających środków ",
+      "InsufficientShieldedFunds2": ", potrzeba ",
+      "InsufficientTransparentFunds1": "Niewystarczające transparentne środki ",
+      "InsufficientTransparentFunds2": " potrzeba więcej aby uniknąć tworzenia nieprawidłowych zmian ",
+      "InsufficientTransparentFunds3": " (poziom zapylenia to ",
+      "BadTxnsOversize": "Masz błąd 'bad-txns-oversize' . Najpierw wyślij mniejszą kwotę. Sprawdź FAQ sekcja https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
+      "BadTxnsJoinsplitRequirementsNotMet": "Masz błąd 'bad-txns-joinsplit-requirements-not-met'. Proszę przeskanuj portfel.",
+      "NonCoinbaseUTXOsToSpend": "Najpierw zrób shield monet zanim je wyślesz. Idż do Shieldowania monet, wybierz prywatny adres do shieldowania i wciśnij Shield albo Shield wszystkich (w przypadku większej ilośc MN)",
+      "NoCoinbaseFundsToShield": "Na tym adresie nie ma nagród z MN do shieldowania. Zamiast tego użyj opcji wyślij monety."
     }
   }
 }
