@@ -431,6 +431,9 @@
       "BadTxnsJoinsplitRequirementsNotMet": "قد تلقيت خطأ 'لم يتم استيفاء متطلبات الانضمام إلى المعاملات السيئة' . يرجى إعادة فحص المحفظة",
       "NonCoinbaseUTXOsToSpend": "تحتاج إلى حماية العملات أولاً قبل إرسالها إلى عنوان آخر. إذهب إلى العملات المحمية، و إختر عنوان الحماية الخاص بك و أنقر على حماية أو حماية الكل (في حالة وجود عدة ماسترنود)",
       "NoCoinbaseFundsToShield": "There are no masternode rewards in this address to shield. Use Send Coins instead."
+    },
+    "results": {
+      "SuccesfullyStartedAlias": "Successfully started alias"
     }
   }
 }

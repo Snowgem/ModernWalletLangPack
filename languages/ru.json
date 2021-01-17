@@ -431,6 +431,9 @@
       "BadTxnsJoinsplitRequirementsNotMet": "Внимание: ошибка 'bad-txns-joinsplit-requirements-not-met'. Пожалуйста, пересканируйте кошелек!",
       "NonCoinbaseUTXOsToSpend": "Вы должны защитить монеты, прежде чем вы сможете переслать их на другой адрес. Перейдите в раздел Защитить монеты, выберите ваш защищённый приватный адрес и нажмите Защитить или Защитить все (для нескольких МН)",
       "NoCoinbaseFundsToShield": "There are no masternode rewards in this address to shield. Use Send Coins instead."
+    },
+    "results": {
+      "SuccesfullyStartedAlias": "Successfully started alias"
     }
   }
 }

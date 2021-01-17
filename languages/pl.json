@@ -431,6 +431,9 @@
       "BadTxnsJoinsplitRequirementsNotMet": "Masz błąd 'bad-txns-joinsplit-requirements-not-met'. Proszę przeskanuj portfel.",
       "NonCoinbaseUTXOsToSpend": "Najpierw zrób shield monet zanim je wyślesz. Idż do Shieldowania monet, wybierz prywatny adres do shieldowania i wciśnij Shield albo Shield wszystkich (w przypadku większej ilośc MN)",
       "NoCoinbaseFundsToShield": "Na tym adresie nie ma nagród z MN do shieldowania. Zamiast tego użyj opcji wyślij monety."
+    },
+    "results": {
+      "SuccesfullyStartedAlias": "Successfully started alias"
     }
   }
 }

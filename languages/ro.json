@@ -431,6 +431,9 @@
       "BadTxnsJoinsplitRequirementsNotMet": "Aveți eroarea 'bad-txns-joinsplit-requirements-not-met'. Vă rugăm să rescanați portofelul.",
       "NonCoinbaseUTXOsToSpend": "Trebuie să vă protejați monedele înainte de a le trimite la altă adresă. În pagina Protejează Modede, alegeți adresa privată pentru protecție și apăsați pe Protejați sau Protejați Toate Monedele (în cazul a multiple Masternoduri)",
       "NoCoinbaseFundsToShield": "Nu există recompense din masternod în această adresă pentru a fi protejate. Folosiți pagina Trimite Monede."
+    },
+    "results": {
+      "SuccesfullyStartedAlias": "Successfully started alias"
     }
   }
 }

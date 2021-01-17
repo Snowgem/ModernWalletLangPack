@@ -431,6 +431,9 @@
       "BadTxnsJoinsplitRequirementsNotMet": "Pozor chyba: 'bad-txns-joinsplit-requirements-not-met'. Prosím prohledejte znovu svoji peněženku.",
       "NonCoinbaseUTXOsToSpend": "Před odesláním na jinou adresu musíte mince nejprve skrýt. Běžte na Skrýt Mince, vyberte svoji privátní krycí adresu a klikněte na Skrýt nebo Skrýt Vše (v případě několika MN)",
       "NoCoinbaseFundsToShield": "There are no masternode rewards in this address to shield. Use Send Coins instead."
+    },
+    "results": {
+      "SuccesfullyStartedAlias": "Successfully started alias"
     }
   }
 }
