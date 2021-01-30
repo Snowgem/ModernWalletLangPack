@@ -188,7 +188,7 @@
       "ipEmpty": "Pole adresu IP nie może być puste",
       "privKeyEmpty": "Pole klucza prywatnego nie może być puste",
       "txEmpty": "Pole transakcji nie może być puste",
-      "txIndexEmpty": "Pole Indexu nie może być puste",
+      "txIndexEmpty": "Pole indexu nie może być puste",
       "noOutput": "Nie masz żadnego nowego wyjścia"
     }
   },
@@ -214,7 +214,7 @@
     "coinsAmount": "Ilość wysyłanych monet",
     "max": "Max",
     "value": "Wartość",
-    "messagePrivTx": "Wiadomość ( tylko z wykorzystaniem prywatnego adresu)",
+    "messagePrivTx": "Wiadomość (tylko z wykorzystaniem prywatnego adresu)",
     "fee": "Prowizja",
     "send": "Wyślij",
     "sendMany": "Wyślij do wielu",
@@ -416,7 +416,7 @@
     "yesRecommended": "Tak(Rekomendowane)",
     "no": "Nie",
     "continue": "Kontynuuj",
-    "back": "Cofnji",
+    "back": "Cofnij",
     "download": "Pobierz",
     "version": "Wersja",
     "confirmationTitle": "Jesteś pewien?",
@@ -433,7 +433,7 @@
       "NoCoinbaseFundsToShield": "Na tym adresie nie ma nagród z MN do shieldowania. Zamiast tego użyj opcji wyślij monety."
     },
     "results": {
-      "SuccesfullyStartedAlias": "Successfully started alias"
+      "SuccesfullyStartedAlias": "Alias został uruchomiony"
     }
   }
 }

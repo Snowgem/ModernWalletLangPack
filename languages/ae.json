@@ -11,7 +11,7 @@
     "tentTeam": "TENT فريق"
   },
   "navbar": {
-    "logoTitle": "TENT Core",
+    "logoTitle": "TENT مركز",
     "menuIconTitle": "قائمة التبديل",
     "reloadIconTitle": "إعادة تحميل المحفظة",
     "aboutIconTitle": "حول",
@@ -304,8 +304,8 @@
     "selectBinaryFiles": "حدد الملفات الثنائية",
     "starting": "ابتداء",
     "masternodePlan": "هل لديك أي خطة لإعداد ماستيرنودي على هذه المحفظة؟",
-    "verifyingWallet": "Verifying wallet",
-    "loadingBlockIdx": "Loading block index",
+    "verifyingWallet": "التحقق من المحفظة",
+    "loadingBlockIdx": "تحميل فهرس الكتلة",
     "verifyingBlocks": "التحقق من المحفظة",
     "loadingWalletDaemon": "تحميل المحفظة",
     "rescanning": "إعادة تفحص",
@@ -430,10 +430,10 @@
       "BadTxnsOversize": "لقد تلقيت خطأ 'تحويل سيئ كبير الحجم'. الرجاء إرسال مبالغ أصغر أولاً. تحقق من قسم الأسئلة الشائعة في https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
       "BadTxnsJoinsplitRequirementsNotMet": "قد تلقيت خطأ 'لم يتم استيفاء متطلبات الانضمام إلى المعاملات السيئة' . يرجى إعادة فحص المحفظة",
       "NonCoinbaseUTXOsToSpend": "تحتاج إلى حماية العملات أولاً قبل إرسالها إلى عنوان آخر. إذهب إلى العملات المحمية، و إختر عنوان الحماية الخاص بك و أنقر على حماية أو حماية الكل (في حالة وجود عدة ماسترنود)",
-      "NoCoinbaseFundsToShield": "There are no masternode rewards in this address to shield. Use Send Coins instead."
+      "NoCoinbaseFundsToShield": "لا توجد مكافآت ماسترنود في هذا العنوان للحماية. إستخدم إرسال العملات الرقمية بدلاً من ذلك."
     },
     "results": {
-      "SuccesfullyStartedAlias": "Successfully started alias"
+      "SuccesfullyStartedAlias": "بدأ بنجاح الإسم المستعار"
     }
   }
 }
