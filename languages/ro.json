@@ -433,7 +433,7 @@
       "NoCoinbaseFundsToShield": "Nu există recompense din masternod în această adresă pentru a fi protejate. Folosiți pagina Trimite Monede."
     },
     "results": {
-      "SuccesfullyStartedAlias": "Successfully started alias"
+      "SuccesfullyStartedAlias": "Masternodul a fost pornit cu success"
     }
   }
 }
