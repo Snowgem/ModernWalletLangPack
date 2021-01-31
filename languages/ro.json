@@ -426,7 +426,7 @@
       "InsufficientShieldedFunds2": ", aveți nevoie de ",
       "InsufficientTransparentFunds1": "Insuficiente fonduri transparente, aveți ",
       "InsufficientTransparentFunds2": " în plus pentru a evita crearea unui rest invalid ",
-      "InsufficientTransparentFunds3": " (pragul de praf este ",
+      "InsufficientTransparentFunds3": " (pragul rezidual de monede ",
       "BadTxnsOversize": "Aveți eroarea 'bad-txns-oversize'. Incercați să trimiteți o cantitate mai mică de monede pentru început. Verificați sectiunea Întrebări Frecvente de pe pagina https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
       "BadTxnsJoinsplitRequirementsNotMet": "Aveți eroarea 'bad-txns-joinsplit-requirements-not-met'. Vă rugăm să rescanați portofelul.",
       "NonCoinbaseUTXOsToSpend": "Trebuie să vă protejați monedele înainte de a le trimite la altă adresă. În pagina Protejează Modede, alegeți adresa privată pentru protecție și apăsați pe Protejați sau Protejați Toate Monedele (în cazul a multiple Masternoduri)",
