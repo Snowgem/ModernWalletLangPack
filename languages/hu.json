@@ -422,18 +422,18 @@
     "confirmationTitle": "Biztos benne?",
     "helpButton": "Segítség",
     "errors": {
-      "InsufficientShieldedFunds1": "Insufficient shielded funds, have ",
-      "InsufficientShieldedFunds2": ", need ",
-      "InsufficientTransparentFunds1": "Insufficient transparent funds, have ",
-      "InsufficientTransparentFunds2": " more to avoid creating invalid change output ",
-      "InsufficientTransparentFunds3": " (dust threshold is ",
-      "BadTxnsOversize": "You got a 'bad-txns-oversize' error. Please send the smaller amount first. Check FAQ section of https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
-      "BadTxnsJoinsplitRequirementsNotMet": "You got a 'bad-txns-joinsplit-requirements-not-met' error. Please rescan the wallet.",
-      "NonCoinbaseUTXOsToSpend": "You need to shield coins first before sending to another address. Go to Shield Coins, choose your shielding private address and click on Shield or Shield All (in case of multiple MN´s)",
-      "NoCoinbaseFundsToShield": "There are no masternode rewards in this address to shield. Use Send Coins instead."
+      "InsufficientShieldedFunds1": "Nincs elegendő fedezet forrás ",
+      "InsufficientShieldedFunds2": ", szükség van rá ",
+      "InsufficientTransparentFunds1": "Nincs elegendő tiszta forrás, szükség van ",
+      "InsufficientTransparentFunds2": " többre, hogy elkerüljük az érvénytelen változtatást ",
+      "InsufficientTransparentFunds3": " (pénz határérték: ",
+      "BadTxnsOversize": " 'bad-txns-oversize' hiba. Kérlek előbb egy kisebb összeget küldj. Nézd meg a FAQ részt az alábbi oldalon: https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
+      "BadTxnsJoinsplitRequirementsNotMet": " 'bad-txns-joinsplit-requirements-not-met' hiba. Kérlek scanneld újra a tárcát.",
+      "NonCoinbaseUTXOsToSpend": "Előbb be kell biztosítanod az érméid (shileding) mielőtt továbbküldöd egy másik címre. Biztosítsd be az érmeket, válaszd a biztosított privát címet majd nyomj a biztosítás, vagy összes biztosítása gombra (Több MasterNode esetén)",
+      "NoCoinbaseFundsToShield": "Nincsenek MasterNode jutalmak amit be lehetne biztosítani. Helyette válaszd az érmek küldése lehetőséget."
     },
     "results": {
-      "SuccesfullyStartedAlias": "Successfully started alias"
+      "SuccesfullyStartedAlias": "Álnév sikeresen elindítva"
     }
   }
 }
