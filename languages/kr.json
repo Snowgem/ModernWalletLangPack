@@ -164,7 +164,7 @@
       "aliasName": "별칭",
       "vpsIp": "VPS IP",
       "privateKey": "개인키",
-      "txId": "거래내역 ID",
+      "txId": "거래내역ID",
       "index": "인덱스",
       "duplicateAliasName": "별칭 복제하기",
       "duplicatePrivKey": "개인키 복제하기",
@@ -187,8 +187,8 @@
       "aliasWhitespace": "별칭 이름은 공란으로 둘 수 없습니다.",
       "ipEmpty": "IP 주소는 비울 수 없습니다.",
       "privKeyEmpty": "개인키는 비울 수 없습니다.",
-      "txEmpty": "거래내역 ID는 비울 수 없습니다.",
-      "txIndexEmpty": "인덱스는 비울 수 없습니다.",
+      "txEmpty": "거래내역ID는 비울 수 없습니다.",
+      "txIndexEmpty": "인덱스(Index)는 비울 수 없습니다.",
       "noOutput": "출력값(Output)은 비울 수 없습니다."
     }
   },
