@@ -2,13 +2,13 @@
   "language": "한글",
   "menubar": {
     "titleBtn": "지갑 재시작",
-    "text1": "실행하시겠습니까",
+    "text1": "실행하시겠습니까?",
     "text2": "지갑이 다시 로드될 때까지 기다려주세요."
   },
   "crafted": {
     "craftedWith": "",
     "by": "담아 제작하였습니다.",
-    "tentTeam": "TENT 일동"
+    "tentTeam": "TENT팀 일동"
   },
   "navbar": {
     "logoTitle": "TENT Core",
@@ -21,7 +21,7 @@
     "connectionsIconTitle": "연결 수",
     "notificationsHeading": "알림",
     "notificationsBadgeNew": "새로운",
-    "notificationsNote": "더많은 정보를 보려면 클릭하세요"
+    "notificationsNote": "더 많은 정보를 원하면 클릭하세요."
   },
   "sidebar": {
     "sectionOne": {
@@ -40,7 +40,7 @@
       "sectionTitle": "응용 프로그램 및 리소스",
       "appsLink": "앱",
       "exchangesLink": "거래소",
-      "coinsListLink": "코인리스트"
+      "coinsListLink": "코인목록"
     },
     "footer": {
       "settingsLink": "설정",
@@ -54,18 +54,18 @@
   },
   "dashboardView": {
     "infoMsg1": "당신의",
-    "infoMsg2": "지갑 상황입니다",
+    "infoMsg2": "지갑 현황입니다.",
     "importantInfo": "중요한 뉴스!",
     "table": {
       "total": "총액",
-      "immature": "미성숙한",
-      "unconfirmed": "미확인된",
+      "immature": "생성중",
+      "unconfirmed": "검증중",
       "transparent": "공개",
       "private": "비공개",
-      "locked": "Locked",
+      "locked": "잠김",
       "txsSummary": "거래요약",
-      "incoming": "수입",
-      "outgoing": "지출"
+      "incoming": "입금",
+      "outgoing": "출금"
     },
     "operations": {
       "goodMorning": "좋은 아침입니다!",
@@ -84,12 +84,12 @@
     "getAdresses": "개인키 가져오기",
     "getMultipleAdresses": "다수의 개인키 가져오기",
     "actionsButton": "동작",
-    "newAddressButton": "새 주소",
-    "createNewAddressButton": "새로운 공인주소 생성하기",
-    "newPrivateAddressButton": "새로운 비공인주소 생성하기 (새플링)",
+    "newAddressButton": "새로운 주소 생성하기",
+    "createNewAddressButton": "새로운 공개주소 생성하기",
+    "newPrivateAddressButton": "새로운 비공개주소 생성하기 (샘플링)",
     "createNewPrivateAddressButton": "새로운 비밀주소 생성하기",
     "newAddressBookButton": "새로운 즐겨찾기 추가",
-    "addNewAddressBookButton": "새로운 즐겨찾는 주소를 추가합니다",
+    "addNewAddressBookButton": "새로운 즐겨찾기 주소를 추가합니다.",
     "editAddressBookButton": "주소록 편집",
     "viewAddressBookButton": "주소록 보기",
     "shieldCoinButton": "코인쉴드하기",
@@ -103,9 +103,9 @@
     "hideAddressButton": "주소 숨기기",
     "hideAddressesButton": "다수의 주소 숨기기",
     "showAllAddressesButton": "모든 주소 보이기",
-    "modalMultipleShieldErrMsg": "개인(private)주소 설정을 다시 확인해주세요",
-    "modalMultipleShieldConfirmMsg": "다음 주소에 생성된 모든 코인을 쉴드하는게 맞습니까? :",
-    "exportMessage": "개인키 모두 추출되었습니다: ",
+    "modalMultipleShieldErrMsg": "비공개(private)주소 설정을 다시 확인해주세요.",
+    "modalMultipleShieldConfirmMsg": "다음 주소에 생성된 모든 코인을 쉴드하시겠습니까? :",
+    "exportMessage": "개인키가 모두 추출되었습니다.: ",
     "exportToFile": "모든 개인키 추출하기",
     "placeholder": {
       "main": "찾기: 주소 또는 이름",
@@ -124,11 +124,11 @@
     },
     "operations": {
       "keysImportTitle": "주의",
-      "keysImportMsg": "지갑불러오기는 시간이 걸립니다. 이 과정이 끝날때까지 지갑에 반영되지 않습니다. \n 이 과정은 약 10분정도 소요됩니다.",
+      "keysImportMsg": "지갑 불러오기는 약간의 시간이 소요됩니다. 이 과정이 끝날때까지 지갑에 반영되지 않습니다. \n 이 과정은 약 10분정도 소요됩니다.",
       "readOnlyErrTitle": "경고",
-      "readOnlyErrMsg": "읽기전용 주소는 불러들일 수 없습니다.",
-      "emptyNameErrMsg": "이름을 입력해주십시오",
-      "duplicateNameErrMsg": "중복된 이름은 허용되지 않습니다. 이름을 다시 입력해주십시오."
+      "readOnlyErrMsg": "읽기전용 주소는 불러올 수 없습니다.",
+      "emptyNameErrMsg": "이름을 입력해주세요.",
+      "duplicateNameErrMsg": "중복된 이름은 사용할 수 없습니다. 이름을 다시 입력해주세요."
     }
   },
   "masternodesView": {
@@ -147,7 +147,7 @@
       "rank": "랭크",
       "locked": "잠김",
       "alias": "별칭",
-      "uptime": "지속시간",
+      "uptime": "동작시간",
       "lastSeen": "마지막 확인시각",
       "ip": "IP",
       "mnPrivKey": "마스터노드 개인키",
@@ -158,7 +158,7 @@
       "address": "주소",
       "details": "상세",
       "enabledStatus": "가동중",
-      "expiredStatus": "만료된"
+      "expiredStatus": "만료됨"
     },
     "operations": {
       "aliasName": "별칭",
@@ -172,24 +172,24 @@
       "editMnConfirm": "새 설정을 적용하기 위해 지갑을 재시작하시겠습니까?",
       "notice": "공지",
       "copied": "복사됨",
-      "deleteMn": "삭제 하시겠습니까",
+      "deleteMn": "삭제 하시겠습니까?",
       "mnDetails": "마스터노드 상세사항"
     }
   },
   "mnsconfigView": {
-    "getPrivKey": "개인키 받기",
+    "getPrivKey": "개인키 생성하기",
     "generateMnData": "마스터노드 데이터 생성하기",
     "newMnData": "새로운 마스터노드 데이터",
     "setupMn": "마스터노드 설치하기",
     "MnKey": "마스터노드 키",
     "operations": {
-      "aliasEmpty": "별칭 이름은 비울 수 없습니다",
-      "aliasWhitespace": "별칭 이름은 공란으로 둘 수 없습니다",
-      "ipEmpty": "IP 주소는 비울 수 없습니다",
-      "privKeyEmpty": "개인키는 비울 수 없습니다",
-      "txEmpty": "거래내역은 비울 수 없습니다",
-      "txIndexEmpty": "거래내역 인덱스는 비울 수 없습니다",
-      "noOutput": "출력값은 비울 수 없습니다"
+      "aliasEmpty": "별칭 이름은 비울 수 없습니다.",
+      "aliasWhitespace": "별칭 이름은 공란으로 둘 수 없습니다.",
+      "ipEmpty": "IP 주소는 비울 수 없습니다.",
+      "privKeyEmpty": "개인키는 비울 수 없습니다.",
+      "txEmpty": "거래내역 ID는 비울 수 없습니다.",
+      "txIndexEmpty": "인덱스는 비울 수 없습니다.",
+      "noOutput": "출력값(Output)은 비울 수 없습니다."
     }
   },
   "votingView": {
@@ -207,58 +207,58 @@
     "placeholder": "찾기: 투표안 이름"
   },
   "sendView": {
-    "fromAddress": "지급 주소",
+    "fromAddress": "인출 주소",
     "recipientAddress": "수취 주소",
     "addressBook": "주소록",
     "storedAddress": "저장된 주소...",
     "coinsAmount": "잔액",
     "max": "최대",
-    "value": "금액",
-    "messagePrivTx": "메세지 (비공인거래(private transaction)만 가능)",
-    "fee": "요금",
+    "value": "금액단위",
+    "messagePrivTx": "메세지 (비공개거래(private transaction)만 가능)",
+    "fee": "수수료",
     "send": "보내기",
     "sendMany": "일괄 송금",
     "sendConfirmation1": "이제 당신은",
     "sendConfirmation2": "를",
-    "sendConfirmation3": "에게 송금할 예정입니다. 요금은 다음과 같습니다.",
+    "sendConfirmation3": "으로 송금할 예정입니다. 수수료는 다음과 같습니다. :",
     "placeholder": {
-      "recipientAddress": "수취할 지갑주소를 입력해주세요",
+      "recipientAddress": "수취할 지갑주소를 입력해주세요.",
       "amount": "금액",
       "message": "메세지"
     },
     "operations": {
-      "selectSendAddress": "보낼 주소를 선택하세요",
-      "putReceiverAddress": "받는 주소를 기재하세요",
-      "putAmount": "송금할 양을 기재하세요",
-      "putTxFee": "거래요금을 기재하세요",
-      "invalidAddress": "올바르지 않는 주소입니다",
-      "checkTxError": "거래오류를 확인하세요"
+      "selectSendAddress": "인출 주소를 선택하세요.",
+      "putReceiverAddress": "수취 주소를 기재하세요.",
+      "putAmount": "송금할 금액을 기재하세요.",
+      "putTxFee": "수수료를 기재하세요.",
+      "invalidAddress": "올바르지 않은 주소입니다.",
+      "checkTxError": "거래오류 내역을 확인하세요."
     }
   },
   "shieldView": {
-    "address": "공인주소",
-    "chooseAddress": "공인주소를 선택하세요",
-    "privateAddr": "비공인주소",
-    "choosePrivateAddr": "비공인주소를 선택하세요",
+    "address": "공개주소",
+    "chooseAddress": "공개주소를 선택하세요.",
+    "privateAddr": "비공개주소",
+    "choosePrivateAddr": "비공개주소를 선택하세요.",
     "shield": "쉴드하기",
     "shieldAll": "모든 코인을 쉴드하기",
     "tooltip": {
-      "shield": "Shield generated coin from selected public address to selected private address",
-      "shieldAll": "Shield all generated coin to selected private address"
+      "shield": "생성된 코인을 각각 선택한 공개 주소에서 비공개 주소로 쉴드합니다.",
+      "shieldAll": "생성된 모든 코인을 선택한 비공개 주소로 쉴드합니다."
     },
     "operations": {
-      "walletNotSynced": "지갑이 아직 싱크되어 있지 않습니다",
+      "walletNotSynced": "지갑이 아직 싱크되어 있지 않습니다.",
       "shieldAll": "모든 코인을 다음 주소로 쉴드하겠습니까? : ",
-      "noCoinToShield": "쉴드할 코인이 없습니다",
-      "multipleShield": "다중쉴드가 완료되었습니다",
-      "shieldAllDone": "모든코인 쉴드가 완료되었습니다"
+      "noCoinToShield": "쉴드할 코인이 없습니다.",
+      "multipleShield": "다중쉴드가 완료되었습니다.",
+      "shieldAllDone": "모든코인의 쉴드가 완료되었습니다."
     }
   },
   "transactionsView": {
     "txDetails": "거래내역 상세",
     "viewOnExplorer": "탐색기에서 보기",
     "table": {
-      "direction": "거래방향",
+      "direction": "유형",
       "date": "일자",
       "address": "주소",
       "amount": "금액",
@@ -267,21 +267,21 @@
       "send": "송금",
       "receive": "수금",
       "generate": "생성",
-      "immature": "미성숙"
+      "immature": "생성중"
     }
   },
   "loadingView": {
-    "downloadLanguage": "언어팩 다운로드 중입니다",
-    "loadingWallet": "지갑 로딩중입니다, 잠시 기다리세요",
-    "selectLinuxVer": "리눅스 버전을 선택하세요",
-    "selectOneVer": "버전을 선택하세요",
-    "selectDaemon": "데몬을 선택하세요",
-    "selectDir": "경로를 선택하세요",
-    "amazing": "기다리면 놀라운 일이 나타날 것입니다",
+    "downloadLanguage": "언어팩 다운로드 중입니다.",
+    "loadingWallet": "지갑 로딩중입니다. 잠시만 기다려주세요.",
+    "selectLinuxVer": "리눅스 버전을 선택하세요.",
+    "selectOneVer": "버전을 선택하세요.",
+    "selectDaemon": "데몬을 선택하세요.",
+    "selectDir": "경로를 선택하세요.",
+    "amazing": "기다리면 놀라운 일이 일어날 것입니다.",
     "currentProcess": "준비중",
     "getCoinList": "코인리스트 가져오는 중",
     "checkCoin": "현재 코인 확인 중",
-    "selectCoinButton": "코인을 선택하세요",
+    "selectCoinButton": "코인을 선택하세요.",
     "getServerData": "서버 데이터 획득 중",
     "displayPopup": "팝업 띄우는 중",
     "checkWalletVer": "지갑 버전 확인 중",
@@ -293,13 +293,13 @@
     "daemonVerSelect": "드롭다운에서 데몬 버전 선택",
     "checkDataFolder": "데이터 폴더 확인 중",
     "checkBlockchain": "블록체인 확인 중",
-    "autoDownloadBlockchain": "블록체인을 자동으로 다운로드 하시겠습니까? (이 작업은 싱크 과정에 드는 시간을 줄여줍니다)",
+    "autoDownloadBlockchain": "블록체인을 자동으로 다운로드 하시겠습니까? (이 작업은 싱크 과정에서 소요되는 시간을 줄여줍니다.)",
     "startDeamon": "데몬 시작 중",
     "finishing": "완료 중",
-    "serverErr": "서버에서 데이터를 얻을 수 없었습니다",
-    "downloadNewFiles": "새로운 파일들 다운로드 중",
+    "serverErr": "서버에서 데이터를 얻을 수 없습니다.",
+    "downloadNewFiles": "새로운 파일 다운로드 중",
     "downloadQuestion": "다운로드 하시겠습니까?",
-    "isAvailable": "가능합니다",
+    "isAvailable": "가능합니다.",
     "checking": "확인 중",
     "selectBinaryFiles": "바이너리 파일 확인 중",
     "starting": "시작 중",
@@ -310,7 +310,7 @@
     "loadingWalletDaemon": "지급 로딩 중",
     "rescanning": "다시 스캔 중",
     "loadingAddresses": "주소 로딩 중",
-    "rewindingBlocks": "필요시 블록을 되감기 합니다"
+    "rewindingBlocks": "필요시 블록을 되감기 합니다."
   },
   "settingsView": {
     "toolsBtn": "도구",
@@ -328,22 +328,22 @@
     "txTime": "거래 일시",
     "backupWlt": "지갑 백업하기",
     "restoreWlt": "지갑 복원하기",
-    "rescanWlt": "지갑 재스캔하기",
-    "reindexWlt": "지갑 재색인하기",
+    "rescanWlt": "지갑 리스캔하기",
+    "reindexWlt": "지갑 하기",
     "autoStartBtn": "자동 시작",
-    "autoStartTip": "시스템과 함께 지갑이 자동 시작합니다",
+    "autoStartTip": "시스템과 함께 지갑이 자동 시작합니다.",
     "autoUpdateDaemonBtn": "데몬 자동 업데이트",
-    "autoUpdateDaemonTip": "마지막 최신데몬으로 자동 업데이트합니다",
+    "autoUpdateDaemonTip": "마지막 최신데몬으로 자동 업데이트합니다.",
     "enableLogBtn": "로그 활성화",
-    "enableLogTip": "파일에 로그를 저장합니다",
+    "enableLogTip": "파일에 로그를 저장합니다.",
     "txsChartBtn": "거래내역 차트",
-    "txsChartTip": "거래내역 차트를 보이게 하거나 숨깁니다",
+    "txsChartTip": "거래내역 차트를 보이게 하거나 숨깁니다.",
     "hideOnMinimizeBtn": "최소화 하기",
-    "hideOnMinimizeTip": "최소화하여 지갑을 숨깁니다",
+    "hideOnMinimizeTip": "최소화하여 지갑을 숨깁니다.",
     "autoShieldBtn": "자동 쉴드",
-    "autoShieldTip": "생성된 코인을 자동 쉴드합니다",
+    "autoShieldTip": "생성된 코인을 자동 쉴드합니다.",
     "showFiatBalanceBtn": "기축통화 잔액표기",
-    "showFiatBalanceTip": "요약페이지에 기축통화로 잔액을 표기합니다",
+    "showFiatBalanceTip": "요약페이지에 기축통화로 잔액을 표기합니다.",
     "placeholder": {
       "peersInOneLine": "한 줄에 한 피어",
       "botName": "봇 이름",
@@ -358,40 +358,40 @@
       "quarter": "분기",
       "year": "년",
       "doNotUse": "사용금지",
-      "emptyBotName": "봇 이름은 공란일 수 없습니다",
-      "emptyApiKey": "API 키는 공란일 수 없습니다",
+      "emptyBotName": "봇 이름은 공란일 수 없습니다.",
+      "emptyApiKey": "API 키는 공란일 수 없습니다.",
       "restartWallet": "지갑을 재시작하시겠습니까?",
-      "restartWallet1": "코인을 바꿀 시에는 지갑을 재시작해야합니다. 지갑이 다시 로딩될 때까지 기다려주세요",
-      "restartWallet2": "새로운 변경을 적용하기 위해서는 재시작해야합니다",
-      "revertDefault": "디폴트 설정으로 바꾸시겠습니까?",
+      "restartWallet1": "코인을 변경 할 시에는 지갑을 재시작해야합니다. 지갑이 다시 로딩될 때까지 기다려주세요.",
+      "restartWallet2": "새로운 변경을 적용하기 위해서는 재시작 해야합니다.",
+      "revertDefault": "초기 설정으로 바꾸시겠습니까?",
       "addPeers": "피어 추가하기",
-      "walletBackup": "지갑이 다음으로 백업 됩니다 :",
-      "cannotBackupWallet": "지갑을 백업할 수 없습니다",
-      "backingUpWallet": "지갑 백업 중, 다시 로딩될 때까지 기다려주세요",
-      "restartWallet3": "지갑 리스캔을 위해 지갑을 재시작합니다",
-      "restartWallet4": "지갑 재색인을 위해 지갑을 재시작합니다",
-      "peersList": "피어 리스트"
+      "walletBackup": "지갑이 다음으로 백업 됩니다. :",
+      "cannotBackupWallet": "지갑을 백업할 수 없습니다.",
+      "backingUpWallet": "지갑 백업 중, 다시 로딩될 때까지 기다려주세요.",
+      "restartWallet3": "지갑 리스캔을 위해 지갑을 재시작합니다.",
+      "restartWallet4": "지갑 리인덱스를 위해 지갑을 재시작합니다.",
+      "peersList": "피어 목록"
     }
   },
   "splashscreen": {
     "currentProcess": "초기화 중",
     "ossOthers": "기타",
-    "daemonLocation": "데몬 경로를 비울 수 없습니다",
+    "daemonLocation": "데몬 경로를 비울 수 없습니다.",
     "autoDaemonDownload": "자동으로 데몬파일을 다운로드 하시겠습니까?",
-    "dataFolder": "데이터 폴더를 비울 수 없습니다",
-    "defaultDataLocation": "기본 데이터 경로를 사용하시겠습니까?",
-    "downloadErr1": "다운로드 에러, 지갑을 재시작합니다",
-    "downloadErr2": "다운로드 파일 에러, 지갑을 재시작해주세요",
-    "downloadErr3": "블록체인 다운로드 에러, 지갑을 재시작합니다",
+    "dataFolder": "데이터 폴더 경로를 비울 수 없습니다.",
+    "defaultDataLocation": "기본 데이터 폴더 경로를 사용하시겠습니까?",
+    "downloadErr1": "다운로드 에러, 지갑을 재시작합니다.",
+    "downloadErr2": "다운로드 파일 에러, 지갑을 재시작해주세요.",
+    "downloadErr3": "블록체인 다운로드 에러, 지갑을 재시작합니다.",
     "scopeUpdate1": "파일 추출 중",
     "scopeUpdate2": "다운로드 중",
     "scopeUpdate3": "블록체인 파일 확인 중",
     "scopeUpdate4": "파일 병합 중",
     "downloadErr4": "블록체인 다운로드 에러, 지갑을 재시작해주세요.",
-    "selectDataDir": "데이터 경로를 선택해주세요"
+    "selectDataDir": "데이터 경로를 선택해주세요."
   },
   "endscreen": {
-    "shutdown1": "TENT Core 종료 중 입니다",
+    "shutdown1": "TENT Core 종료 중 입니다.",
     "shutdown2": "이 창이 없어지기 전에는",
     "shutdown3": "컴퓨터를 끄지 마세요."
   },
@@ -399,7 +399,7 @@
     "success": "성공했습니다.",
     "success1": "성공!",
     "success2": "성공",
-    "fail": "실패했습니다",
+    "fail": "실패했습니다.",
     "fail1": "실패!",
     "alert": "알림",
     "error": "에러!",
@@ -413,27 +413,27 @@
     "ok": "확인",
     "cancel": "취소",
     "yes": "예",
-    "yesRecommended": "예(추천)",
+    "yesRecommended": "예(권장)",
     "no": "아니오",
     "continue": "계속",
     "back": "뒤로",
     "download": "다운로드",
     "version": "버전",
     "confirmationTitle": "계속하시겠습니까?",
-    "helpButton": "헬프",
+    "helpButton": "도움",
     "errors": {
-      "InsufficientShieldedFunds1": "Insufficient shielded funds, have ",
-      "InsufficientShieldedFunds2": ", need ",
-      "InsufficientTransparentFunds1": "Insufficient transparent funds, have ",
-      "InsufficientTransparentFunds2": " more to avoid creating invalid change output ",
-      "InsufficientTransparentFunds3": " (dust threshold is ",
-      "BadTxnsOversize": "You got a 'bad-txns-oversize' error. Please send the smaller amount first. Check FAQ section of https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
-      "BadTxnsJoinsplitRequirementsNotMet": "You got a 'bad-txns-joinsplit-requirements-not-met' error. Please rescan the wallet.",
-      "NonCoinbaseUTXOsToSpend": "You need to shield coins first before sending to another address. Go to Shield Coins, choose your shielding private address and click on Shield or Shield All (in case of multiple MN´s)",
-      "NoCoinbaseFundsToShield": "There are no masternode rewards in this address to shield. Use Send Coins instead."
+      "InsufficientShieldedFunds1": "선택한 비공개 주소에 잔액이 부족합니다. 현재금액 :",
+      "InsufficientShieldedFunds2": ", 필요한 금액 : ",
+      "InsufficientTransparentFunds1": "선택한 공개 주소에 잔액에 부족합니다. 현재금액 :",
+      "InsufficientTransparentFunds2": " 잘못된 출력 변경을 생성하지 않게함",
+      "InsufficientTransparentFunds3": " (최소금액은 ",
+      "BadTxnsOversize": "'bad-txns-oversize' 에러가 발생했습니다. 처음엔 작은 금액을 송금해 주세요. 자세한 내용은 FAQ 섹션을 확인해 주세요. https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
+      "BadTxnsJoinsplitRequirementsNotMet": "'bad-txns-joinsplit-requirements-not-met' 에러가 발생했습니다. 지갑을 리스캔 해주세요.",
+      "NonCoinbaseUTXOsToSpend": "다른 주소로 코인을 송금하기 위해서는 먼저 코인을 쉴드해야 합니다. 코인쉴드 메뉴로 이동하여 비공개 주소를 선택한 후에 '쉴드하기' 혹은 '모든 코인을 쉴드하기'(여러개의 마스터노드 일 경우)를 선택해 주세요.´s)",
+      "NoCoinbaseFundsToShield": "이 주소에는 쉴드할 수 있는 보상된 코인이 없습니다. 코인송금 메뉴를 이용해 주세요."
     },
     "results": {
-      "SuccesfullyStartedAlias": "Successfully started alias"
+      "SuccesfullyStartedAlias": "성공적으로 시작됨"
     }
   }
 }
