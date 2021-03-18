@@ -430,10 +430,10 @@
       "BadTxnsOversize": "Hai una 'bad-txns-oversize' error. Perfavore spedisci una somma inferiore. Controlla la sezione FAQ qui https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
       "BadTxnsJoinsplitRequirementsNotMet": "Hai una 'bad-txns-joinsplit-requirements-not-met' error. Perfavore ripeti la scansione del portafoglio.",
       "NonCoinbaseUTXOsToSpend": "È necessario proteggere le monete prima di inviarle a un altro indirizzo. Vai a Shield Coins, scegli il tuo indirizzo privato per la schermatura e fai clic su Shield o Shield All (in caso di più MN´s)",
-      "NoCoinbaseFundsToShield": "There are no masternode rewards in this address to shield. Use Send Coins instead."
+      "NoCoinbaseFundsToShield": "Non ci sono ricompense per questo nodo da scudare. Invece utilizza manda monete ."
     },
     "results": {
-      "SuccesfullyStartedAlias": "Successfully started alias"
+      "SuccesfullyStartedAlias": "Soprannome partito con successo"
     }
   }
 }

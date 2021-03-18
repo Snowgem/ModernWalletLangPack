@@ -19,7 +19,7 @@
     "DiscordIconTitle": "Discord",
     "notificationsIconTitle": "Уведомления",
     "connectionsIconTitle": "Соединения",
-    "notificationsHeading": "УВЕДОМЛЕНИЯ",
+    "notificationsHeading": "Уведомления",
     "notificationsBadgeNew": "Новый",
     "notificationsNote": "Кликните для подробностей"
   },
@@ -74,7 +74,7 @@
       "txsLast24Hours": "Ваши транзакции за последние 24 часа",
       "txsLast7Days": "Ваши транзакции за последние 7 дней",
       "txsLastMonth": "Ваши транзакции за последний месяц",
-      "txsLastQuarter": "Ваши транзакции за последнюю четверть",
+      "txsLastQuarter": "Ваши транзакции за последний квартал",
       "txsLastYear": "Ваши транзакции за последний год"
     }
   },
@@ -89,7 +89,7 @@
     "newPrivateAddressButton": "Новый приватный адрес (Sapling)",
     "createNewPrivateAddressButton": "Создать новый приватный адрес",
     "newAddressBookButton": "Новая адресная книга",
-    "addNewAddressBookButton": "Добавить новую адресную книгу",
+    "addNewAddressBookButton": "Добавить новый адресс адресной книги",
     "editAddressBookButton": "Редактировать адресную книгу",
     "viewAddressBookButton": "Показать адресную книгу",
     "shieldCoinButton": "Защитить монеты",
@@ -124,7 +124,7 @@
     },
     "operations": {
       "keysImportTitle": "Внимание",
-      "keysImportMsg": "Импортирование адреса это длительный процесс, информация о кошельке не будет обновлена, пока этот процесс не завершится.\nЭто может занять более 10 минут",
+      "keysImportMsg": "Импортирование адреса это длительный процесс, информация о кошельке не будет обновлена, пока этот процесс не завершится. Это может занять более 10 минут",
       "readOnlyErrTitle": "Внимание",
       "readOnlyErrMsg": "Нельзя выбрать адрес 'только для чтения'",
       "emptyNameErrMsg": "Название не может быть пустым",
@@ -145,10 +145,10 @@
     "placeholder": "Поиск: Адрес / Tx хэш / IP",
     "table": {
       "rank": "Ранк",
-      "locked": "Заблок",
+      "locked": "Заблокировать",
       "alias": "Алиас",
       "uptime": "Аптайм",
-      "lastSeen": "Посл обнаруж",
+      "lastSeen": "Посл обнаружение",
       "ip": "IP",
       "mnPrivKey": "Приватный ключ мастерноды",
       "txId": "Txid",
@@ -212,7 +212,7 @@
     "addressBook": "Адресная книга",
     "storedAddress": "Сохранённый адрес...",
     "coinsAmount": "Количество монет",
-    "max": "Макс",
+    "max": "Максимум",
     "value": "Сумма",
     "messagePrivTx": "Сообщение (только приватная транзакция)",
     "fee": "Комиссия",
@@ -243,7 +243,7 @@
     "shield": "Защитить",
     "shieldAll": "Защитить все монеты",
     "tooltip": {
-      "shield": "ащитить сгенерированные монеты из выбранного публичного адреса в указанный приватный адрес",
+      "shield": "Защитить сгенерированные монеты из выбранного публичного адреса в указанный приватный адрес",
       "shieldAll": "Защитить все сгенерированные монеты в указанный приватный адрес"
     },
     "operations": {
@@ -262,7 +262,7 @@
       "date": "Дата",
       "address": "Адрес",
       "amount": "Сумма",
-      "validated": "Валидирована",
+      "validated": "Подтверждена",
       "details": "Подробности",
       "send": "отправка",
       "receive": "получение",
@@ -315,7 +315,7 @@
   "settingsView": {
     "toolsBtn": "Инструменты",
     "getPeersBtn": "Получить пиров",
-    "setPeersBtn": "Задать пиров",
+    "setPeersBtn": "Задать пиры",
     "debugBtn": "Отладка",
     "addBtn": "Добавить",
     "daemonLocation": "Расположение демона",
@@ -430,10 +430,10 @@
       "BadTxnsOversize": "Внимание: ошибка 'bad-txns-oversize'. Пожалуйста, пошлите меньшую сумму для начала. Подробнее об ошибке читайте в FAQ: https://docs.snowgem.org/wallets/snowgem-modern-wallet/frequently-asked-questions",
       "BadTxnsJoinsplitRequirementsNotMet": "Внимание: ошибка 'bad-txns-joinsplit-requirements-not-met'. Пожалуйста, пересканируйте кошелек!",
       "NonCoinbaseUTXOsToSpend": "Вы должны защитить монеты, прежде чем вы сможете переслать их на другой адрес. Перейдите в раздел Защитить монеты, выберите ваш защищённый приватный адрес и нажмите Защитить или Защитить все (для нескольких МН)",
-      "NoCoinbaseFundsToShield": "There are no masternode rewards in this address to shield. Use Send Coins instead."
+      "NoCoinbaseFundsToShield": "Для защиты монет на данный адрес, нет вознаграждений за мастерноду. Используйте отправку монет."
     },
     "results": {
-      "SuccesfullyStartedAlias": "Successfully started alias"
+      "SuccesfullyStartedAlias": "Успешный запуск Алиаса"
     }
   }
 }
